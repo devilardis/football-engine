@@ -7,41 +7,7 @@
   "bankroll": 3870.7891,
   "breaker_multiplier": 1.0,
   "parlay": [],
-  "score_parlay": [
-    {
-      "type": "比分2串1",
-      "legs": [
-        {
-          "match": "2026-09-27_周日003",
-          "home": "格拉夫",
-          "away": "登博思",
-          "league": "荷乙",
-          "score": "0-1",
-          "prob": 0.2,
-          "cal_prob": 0.067,
-          "odds": 24.0
-        },
-        {
-          "match": "2026-09-27_周日009",
-          "home": "哥伦布机员",
-          "away": "迈阿密国际",
-          "league": "美职",
-          "score": "0-1",
-          "prob": 0.275,
-          "cal_prob": 0.067,
-          "odds": 17.0
-        }
-      ],
-      "total_odds": 408.0,
-      "hit_prob": 0.0045,
-      "stake": 2.0,
-      "potential": 816.0,
-      "worst_win": 0.0,
-      "n_bets": 1,
-      "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.4% × 赔率 408 倍 = EV +83%）"
-    }
-  ],
+  "score_parlay": [],
   "parlay_calibration": {
     "overall": 0.5308,
     "n": 878,
