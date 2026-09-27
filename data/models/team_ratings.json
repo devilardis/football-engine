@@ -6928,10 +6928,10 @@
     "rest_days": 3
   },
   "皇家盐湖城": {
-    "elo": 1421.3,
-    "attack": 0.6711,
-    "defense": 0.882,
-    "form": -0.5253,
+    "elo": 1475.7,
+    "attack": 0.7112,
+    "defense": 0.796,
+    "form": -0.0677,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7120,10 +7120,10 @@
     "rest_days": 3
   },
   "新英格兰": {
-    "elo": 1597.0,
-    "attack": 0.8085,
-    "defense": 0.5007,
-    "form": 0.3648,
+    "elo": 1542.6,
+    "attack": 0.7297,
+    "defense": 0.5574,
+    "form": -0.0446,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7216,10 +7216,10 @@
     "rest_days": 3
   },
   "科罗拉多急流": {
-    "elo": 1514.2,
-    "attack": 0.3978,
-    "defense": 0.4417,
-    "form": -0.2491,
+    "elo": 1494.9,
+    "attack": 0.4294,
+    "defense": 0.5042,
+    "form": -0.4744,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7232,10 +7232,10 @@
     "rest_days": 3
   },
   "洛杉矶银河": {
-    "elo": 1377.2,
-    "attack": 0.4624,
-    "defense": 0.5898,
-    "form": -0.0479,
+    "elo": 1396.5,
+    "attack": 0.5229,
+    "defense": 0.6027,
+    "form": 0.2665,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7248,10 +7248,10 @@
     "rest_days": 3
   },
   "圣何塞地震": {
-    "elo": 1485.8,
-    "attack": 0.7063,
-    "defense": 0.7063,
-    "form": 0.0,
+    "elo": 1510.4,
+    "attack": 0.743,
+    "defense": 0.6726,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10947,6 +10947,14 @@
     "elo": 1455.5,
     "attack": 0.9025,
     "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "波特兰伐木工": {
+    "elo": 1475.4,
+    "attack": 0.9377,
+    "defense": 1.0081,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
