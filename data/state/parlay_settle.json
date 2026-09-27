@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T01:50:02.146246+00:00",
+  "generated_at": "2026-09-27T03:16:32.725455+00:00",
   "parlay": {
     "n_tickets": 102,
     "n_pending": 4,
@@ -59,8 +59,8 @@
         "roi": -1.0
       }
     },
-    "leg_hit_rate": 0.1019,
-    "n_legs_settled": 422
+    "leg_hit_rate": 0.1017,
+    "n_legs_settled": 423
   },
   "tickets": {
     "parlay": [
@@ -11157,7 +11157,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -11169,7 +11169,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 26.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-26_周六024",
@@ -11186,8 +11186,8 @@
         "date": "2026-09-27",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 782.0,
-        "total_odds": 391.0,
+        "potential": 816.0,
+        "total_odds": 408.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -11204,7 +11204,7 @@
             "away": "登博思",
             "sel": null,
             "score": "0-1",
-            "odds": 23.0,
+            "odds": 24.0,
             "hit": null
           },
           {
@@ -24992,8 +24992,8 @@
           "roi": null,
           "avg_odds": null,
           "by_type": {},
-          "leg_hit_rate": null,
-          "n_legs_settled": 0
+          "leg_hit_rate": 0.0,
+          "n_legs_settled": 1
         },
         "tickets": [
           {
@@ -25007,7 +25007,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -25019,7 +25019,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 26.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-26_周六024",
@@ -25062,8 +25062,8 @@
             "date": "2026-09-27",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 782.0,
-            "total_odds": 391.0,
+            "potential": 816.0,
+            "total_odds": 408.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -25080,7 +25080,7 @@
                 "away": "登博思",
                 "sel": null,
                 "score": "0-1",
-                "odds": 23.0,
+                "odds": 24.0,
                 "hit": null
               },
               {

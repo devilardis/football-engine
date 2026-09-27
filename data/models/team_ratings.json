@@ -6504,10 +6504,10 @@
     "rest_days": 3
   },
   "洛杉矶FC": {
-    "elo": 1689.4,
-    "attack": 0.7246,
-    "defense": 0.2929,
-    "form": -0.0935,
+    "elo": 1666.2,
+    "attack": 0.654,
+    "defense": 0.2995,
+    "form": -0.3654,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7128,10 +7128,10 @@
     "rest_days": 3
   },
   "多伦多FC": {
-    "elo": 1508.3,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1487.0,
+    "attack": 0.8463,
+    "defense": 0.9166,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7152,10 +7152,10 @@
     "rest_days": 3
   },
   "纳什维尔": {
-    "elo": 1536.5,
-    "attack": 0.3845,
-    "defense": 0.4171,
-    "form": -0.0591,
+    "elo": 1557.8,
+    "attack": 0.4174,
+    "defense": 0.3764,
+    "form": 0.2586,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7272,10 +7272,10 @@
     "rest_days": 3
   },
   "达拉斯FC": {
-    "elo": 1455.3,
-    "attack": 0.8406,
-    "defense": 0.9994,
-    "form": -0.21,
+    "elo": 1478.5,
+    "attack": 0.7938,
+    "defense": 0.902,
+    "form": 0.153,
     "injury": 0.0,
     "rest_days": 3
   },
