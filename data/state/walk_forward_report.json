@@ -1,46 +1,46 @@
 {
-  "total_matches": 871,
+  "total_matches": 873,
   "date_range": [
     "2026-07-19",
     "2026-09-26"
   ],
   "metrics": {
-    "brier": 0.5942,
-    "weighted_brier": 0.5921,
-    "rps": 0.2036,
-    "weighted_rps": 0.2029,
-    "log_loss": 0.996,
-    "hit_rate": 0.5304,
-    "ece": 0.0881
+    "brier": 0.5933,
+    "weighted_brier": 0.5912,
+    "rps": 0.2033,
+    "weighted_rps": 0.2026,
+    "log_loss": 0.9948,
+    "hit_rate": 0.5315,
+    "ece": 0.0892
   },
   "draw_analysis": {
     "actual_draws": 217,
-    "actual_draw_rate": 0.2491,
+    "actual_draw_rate": 0.2486,
     "predicted_draws": 26,
-    "predicted_draw_rate": 0.0299,
+    "predicted_draw_rate": 0.0298,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.2593,
-    "avg_market_draw": 0.2433,
+    "avg_draw_prob": 0.2592,
+    "avg_market_draw": 0.2432,
     "market_high_draw_n": 173,
     "market_high_draw_actual": 57,
     "market_high_draw_rate": 0.3295
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.527,
-      "n": 871
+      "hit_rate": 0.5281,
+      "n": 873
     },
     "market": {
-      "hit_rate": 0.543,
-      "n": 768
+      "hit_rate": 0.5442,
+      "n": 770
     },
     "hybrid_v2": {
-      "hit_rate": 0.487,
-      "n": 768
+      "hit_rate": 0.4883,
+      "n": 770
     },
     "market_d28": {
-      "hit_rate": 0.4987,
-      "n": 768
+      "hit_rate": 0.5,
+      "n": 770
     }
   },
   "by_league": {
@@ -170,6 +170,12 @@
       "brier": 0.6707,
       "rps": 0.1889
     },
+    "美职": {
+      "n": 14,
+      "hit_rate": 0.2857,
+      "brier": 0.6762,
+      "rps": 0.2028
+    },
     "德乙": {
       "n": 13,
       "hit_rate": 0.4615,
@@ -181,12 +187,6 @@
       "hit_rate": 0.5385,
       "brier": 0.6128,
       "rps": 0.1994
-    },
-    "美职": {
-      "n": 13,
-      "hit_rate": 0.2308,
-      "brier": 0.7157,
-      "rps": 0.2132
     },
     "亚运男足": {
       "n": 13,
@@ -224,17 +224,17 @@
       "brier": 0.7082,
       "rps": 0.2298
     },
+    "国际赛": {
+      "n": 6,
+      "hit_rate": 0.6667,
+      "brier": 0.6173,
+      "rps": 0.2229
+    },
     "亚运女足": {
       "n": 5,
       "hit_rate": 0.4,
       "brier": 0.674,
       "rps": 0.2075
-    },
-    "国际赛": {
-      "n": 5,
-      "hit_rate": 0.6,
-      "brier": 0.6856,
-      "rps": 0.2453
     },
     "韩职": {
       "n": 3,
