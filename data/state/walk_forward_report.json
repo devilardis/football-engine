@@ -1,46 +1,46 @@
 {
-  "total_matches": 887,
+  "total_matches": 890,
   "date_range": [
     "2026-07-19",
-    "2026-09-27"
+    "2026-09-28"
   ],
   "metrics": {
-    "brier": 0.5916,
-    "weighted_brier": 0.5893,
+    "brier": 0.5912,
+    "weighted_brier": 0.5888,
     "rps": 0.2033,
     "weighted_rps": 0.2026,
-    "log_loss": 0.9924,
-    "hit_rate": 0.5344,
-    "ece": 0.091
+    "log_loss": 0.9918,
+    "hit_rate": 0.5348,
+    "ece": 0.0898
   },
   "draw_analysis": {
     "actual_draws": 218,
-    "actual_draw_rate": 0.2458,
+    "actual_draw_rate": 0.2449,
     "predicted_draws": 26,
-    "predicted_draw_rate": 0.0293,
+    "predicted_draw_rate": 0.0292,
     "max_draw_prob": 0.5025,
     "avg_draw_prob": 0.2586,
     "avg_market_draw": 0.243,
-    "market_high_draw_n": 174,
+    "market_high_draw_n": 176,
     "market_high_draw_actual": 58,
-    "market_high_draw_rate": 0.3333
+    "market_high_draw_rate": 0.3295
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.531,
-      "n": 887
+      "hit_rate": 0.5315,
+      "n": 890
     },
     "market": {
-      "hit_rate": 0.5472,
-      "n": 784
+      "hit_rate": 0.5476,
+      "n": 787
     },
     "hybrid_v2": {
-      "hit_rate": 0.4923,
-      "n": 784
+      "hit_rate": 0.4917,
+      "n": 787
     },
     "market_d28": {
-      "hit_rate": 0.5051,
-      "n": 784
+      "hit_rate": 0.5044,
+      "n": 787
     }
   },
   "by_league": {
@@ -147,10 +147,10 @@
       "rps": 0.1876
     },
     "欧国联": {
-      "n": 24,
-      "hit_rate": 0.5833,
-      "brier": 0.5419,
-      "rps": 0.1892
+      "n": 25,
+      "hit_rate": 0.6,
+      "brier": 0.5431,
+      "rps": 0.1911
     },
     "美职": {
       "n": 20,
@@ -218,17 +218,17 @@
       "brier": 0.59,
       "rps": 0.2268
     },
+    "国际赛": {
+      "n": 9,
+      "hit_rate": 0.6667,
+      "brier": 0.547,
+      "rps": 0.2063
+    },
     "亚冠精英": {
       "n": 8,
       "hit_rate": 0.375,
       "brier": 0.7082,
       "rps": 0.2298
-    },
-    "国际赛": {
-      "n": 7,
-      "hit_rate": 0.7143,
-      "brier": 0.5871,
-      "rps": 0.2147
     },
     "亚运女足": {
       "n": 5,

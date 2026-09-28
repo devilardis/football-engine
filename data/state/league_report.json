@@ -1,8 +1,8 @@
 {
   "n_leagues": 42,
-  "n_matches": 915,
+  "n_matches": 918,
   "external_added": 29,
-  "generated_at": "2026-09-28T12:00:38.442574",
+  "generated_at": "2026-09-28T19:10:19.601190",
   "leagues": [
     {
       "league": "西甲",
@@ -295,20 +295,20 @@
     },
     {
       "league": "欧国联",
-      "n": 24,
-      "hit_rate": 0.5833,
-      "avg_odds": 1.667,
-      "roi": -0.0954,
-      "avg_confidence": 0.1906,
+      "n": 25,
+      "hit_rate": 0.6,
+      "avg_odds": 1.698,
+      "roi": -0.0344,
+      "avg_confidence": 0.1862,
       "verdict": "谨慎",
       "recent_n": 5,
       "recent_hits": 3,
       "recent_hit_rate": 0.6,
-      "recent_roi": -0.214,
+      "recent_roi": 0.026,
       "recent10_n": 10,
-      "recent10_hits": 6,
-      "recent10_hit_rate": 0.6,
-      "recent10_roi": -0.129
+      "recent10_hits": 7,
+      "recent10_hit_rate": 0.7,
+      "recent10_roi": 0.114
     },
     {
       "league": "美职",
@@ -481,6 +481,23 @@
       "recent10_roi": -0.098
     },
     {
+      "league": "国际赛",
+      "n": 9,
+      "hit_rate": 0.6667,
+      "avg_odds": 1.618,
+      "roi": 0.0633,
+      "avg_confidence": 0.1988,
+      "verdict": "观望",
+      "recent_n": 5,
+      "recent_hits": 4,
+      "recent_hit_rate": 0.8,
+      "recent_roi": 0.176,
+      "recent10_n": 9,
+      "recent10_hits": 6,
+      "recent10_hit_rate": 0.6667,
+      "recent10_roi": 0.0633
+    },
+    {
       "league": "瑞超",
       "n": 9,
       "hit_rate": 0.5556,
@@ -513,23 +530,6 @@
       "recent10_hits": 3,
       "recent10_hit_rate": 0.375,
       "recent10_roi": -0.305
-    },
-    {
-      "league": "国际赛",
-      "n": 7,
-      "hit_rate": 0.7143,
-      "avg_odds": 1.583,
-      "roi": 0.2,
-      "avg_confidence": 0.1828,
-      "verdict": "观望",
-      "recent_n": 5,
-      "recent_hits": 3,
-      "recent_hit_rate": 0.6,
-      "recent_roi": -0.058,
-      "recent10_n": 7,
-      "recent10_hits": 5,
-      "recent10_hit_rate": 0.7143,
-      "recent10_roi": 0.2
     },
     {
       "league": "亚运女足",
