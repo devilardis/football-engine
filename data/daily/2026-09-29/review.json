@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-29",
+  "n_matches": 7,
+  "hit_rate": 1.0,
+  "hits": 7,
+  "source_brier": {
+    "model": 0.415,
+    "market": 0.1671,
+    "djyy": null,
+    "final": 0.1682
+  },
+  "by_league": {
+    "亚运女足": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.126
+    },
+    "国际赛": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.1198
+    },
+    "日联赛杯": {
+      "n": 4,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.5101,
+      "avg_brier": 0.2014
+    }
+  },
+  "by_confidence_tier": {
+    "high": {
+      "n": 6,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.6097,
+      "avg_brier": 0.145
+    },
+    "mid": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.3075
+    }
+  },
+  "by_odds_band": {
+    "1.0-1.5": {
+      "n": 6,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.6097,
+      "avg_brier": 0.145
+    },
+    "1.5-2.0": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.3075
+    }
+  },
+  "score_stats": {
+    "top1": 2,
+    "top3": 3,
+    "top5": 4,
+    "top8": 5,
+    "any": 5
+  },
+  "score_rank_hist": {
+    "1": 2,
+    "4": 1,
+    "3": 1,
+    "7": 1
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 0,
+      "hits": 0
+    },
+    "mc": {
+      "n": 5,
+      "hits": 4
+    }
+  },
+  "market_signal_stats": {
+    "n": 6,
+    "hits": 3
+  },
+  "layered": {
+    "log_loss_final": 0.3978,
+    "rps_final": 0.0668,
+    "rps_market": 0.0655,
+    "goal_framework": {
+      "n": 7,
+      "hits": 4
+    },
+    "prob_bands": {
+      "50-60%": {
+        "n": 1,
+        "hit_rate": 1.0
+      },
+      "60%+": {
+        "n": 6,
+        "hit_rate": 1.0
+      }
+    },
+    "freshness_groups": {
+      "ok": {
+        "n": 4,
+        "hit_rate": 1.0
+      },
+      "watch": {
+        "n": 3,
+        "hit_rate": 1.0
+      }
+    }
+  },
+  "biases": [
+    {
+      "dimension": "outcome",
+      "key": "all",
+      "outcome": "draw",
+      "predicted_avg": 0.1835,
+      "actual_rate": 0.0,
+      "gap": 0.1835,
+      "n": 7,
+      "severity": "warn",
+      "suggested_action": "increase market_weight (trust market on draws)"
+    }
+  ],
+  "total_pnl": 0.0,
+  "generated_at": "2026-09-29T16:36:06.318047",
+  "sha256": "70da7ca5cd924f29ce14bb1d54309e72"
+}
