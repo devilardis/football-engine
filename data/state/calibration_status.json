@@ -1,8 +1,8 @@
 {
   "enabled": false,
-  "clean_n": 483,
-  "val_delta_brier": -0.0047,
+  "clean_n": 484,
+  "val_delta_brier": -0.00477,
   "t": -0.7,
-  "reason": "验证段无显著改善 (Δ=-0.0047, t=-0.7) → 维持关闭",
-  "decided_at": "2026-09-29T21:03:09"
+  "reason": "验证段无显著改善 (Δ=-0.0048, t=-0.7) → 维持关闭",
+  "decided_at": "2026-09-30T05:48:48"
 }
