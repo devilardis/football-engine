@@ -6,7 +6,53 @@
   "expected_roi": 0.0,
   "bankroll": 3870.7891,
   "breaker_multiplier": 1.0,
-  "parlay": [],
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-09-30_周三001",
+          "home": "韩国亚运男足",
+          "away": "中国亚运男足",
+          "league": "亚运男足",
+          "sel": "home",
+          "odds": 2.31,
+          "prob": 0.413,
+          "cal_prob": 0.503,
+          "market_prob": 0.413,
+          "source": "fusion",
+          "hit_prob": 0.503
+        },
+        {
+          "match": "2026-09-30_周三002",
+          "home": "乌兹别克亚运男足",
+          "away": "日本亚",
+          "league": "亚运男足",
+          "sel": "home",
+          "odds": 2.31,
+          "prob": 0.412,
+          "cal_prob": 0.503,
+          "market_prob": 0.412,
+          "source": "fusion",
+          "hit_prob": 0.503
+        }
+      ],
+      "total_odds": 5.34,
+      "model_ev": -0.18,
+      "cal_ev": 4.85,
+      "cal_roi": 0.3485,
+      "market_ev": -0.18,
+      "market_roi": -0.0918,
+      "hit_prob_cal": 0.253,
+      "recommended": true,
+      "stake": 13.93,
+      "n_bets": 1,
+      "potential": 74.33,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    }
+  ],
   "score_parlay": [],
   "parlay_calibration": {
     "overall": 0.5385,
