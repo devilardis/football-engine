@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-01T15:00:12.087531+00:00",
+  "generated_at": "2026-10-01T16:01:23.987050+00:00",
   "parlay": {
-    "n_tickets": 103,
-    "n_pending": 0,
+    "n_tickets": 108,
+    "n_pending": 5,
     "n_settled": 103,
     "n_won": 27,
     "hit_rate": 0.2621,
     "stake": 562.83,
-    "stake_committed": 562.83,
-    "stake_pending": 0,
+    "stake_committed": 586.06,
+    "stake_pending": 23.23,
     "return": 613.08,
     "roi": 0.0893,
     "avg_odds": 5.82,
@@ -4109,6 +4109,206 @@
             "score": null,
             "odds": 2.31,
             "hit": false
+          }
+        ]
+      },
+      {
+        "date": "2026-10-02",
+        "type": "2串1",
+        "stake": 5.75,
+        "potential": 30.42,
+        "total_odds": 5.29,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-02_19728241",
+            "home": "AFC温布尔登",
+            "away": "斯蒂文尼奇",
+            "sel": "home",
+            "score": null,
+            "odds": 2.3,
+            "hit": null
+          },
+          {
+            "match": "2026-10-02_19745054",
+            "home": "阿尔梅里亚",
+            "away": "布尔戈斯",
+            "sel": "home",
+            "score": null,
+            "odds": 2.3,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-02",
+        "type": "2串1",
+        "stake": 4.95,
+        "potential": 24.93,
+        "total_odds": 5.04,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-02_19728233",
+            "home": "彼得堡联",
+            "away": "诺茨郡",
+            "sel": "away",
+            "score": null,
+            "odds": 2.19,
+            "hit": null
+          },
+          {
+            "match": "2026-10-02_19728241",
+            "home": "AFC温布尔登",
+            "away": "斯蒂文尼奇",
+            "sel": "home",
+            "score": null,
+            "odds": 2.3,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-02",
+        "type": "2串1",
+        "stake": 4.95,
+        "potential": 24.93,
+        "total_odds": 5.04,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-02_19728233",
+            "home": "彼得堡联",
+            "away": "诺茨郡",
+            "sel": "away",
+            "score": null,
+            "odds": 2.19,
+            "hit": null
+          },
+          {
+            "match": "2026-10-02_19745054",
+            "home": "阿尔梅里亚",
+            "away": "布尔戈斯",
+            "sel": "home",
+            "score": null,
+            "odds": 2.3,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-02",
+        "type": "3串1",
+        "stake": 3.26,
+        "potential": 37.77,
+        "total_odds": 11.59,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-02_19728233",
+            "home": "彼得堡联",
+            "away": "诺茨郡",
+            "sel": "away",
+            "score": null,
+            "odds": 2.19,
+            "hit": null
+          },
+          {
+            "match": "2026-10-02_19728241",
+            "home": "AFC温布尔登",
+            "away": "斯蒂文尼奇",
+            "sel": "home",
+            "score": null,
+            "odds": 2.3,
+            "hit": null
+          },
+          {
+            "match": "2026-10-02_19745054",
+            "home": "阿尔梅里亚",
+            "away": "布尔戈斯",
+            "sel": "home",
+            "score": null,
+            "odds": 2.3,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-02",
+        "type": "3串4",
+        "stake": 4.32,
+        "potential": 29.11,
+        "total_odds": 6.74,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-02_19728233",
+            "home": "彼得堡联",
+            "away": "诺茨郡",
+            "sel": "away",
+            "score": null,
+            "odds": 2.19,
+            "hit": null
+          },
+          {
+            "match": "2026-10-02_19728241",
+            "home": "AFC温布尔登",
+            "away": "斯蒂文尼奇",
+            "sel": "home",
+            "score": null,
+            "odds": 2.3,
+            "hit": null
+          },
+          {
+            "match": "2026-10-02_19745054",
+            "home": "阿尔梅里亚",
+            "away": "布尔戈斯",
+            "sel": "home",
+            "score": null,
+            "odds": 2.3,
+            "hit": null
           }
         ]
       }
@@ -25107,6 +25307,230 @@
                 "score": null,
                 "odds": 2.31,
                 "hit": false
+              }
+            ]
+          }
+        ]
+      },
+      "score_parlay": {
+        "stats": null,
+        "tickets": []
+      }
+    },
+    "2026-10-02": {
+      "parlay": {
+        "stats": {
+          "n_tickets": 5,
+          "n_pending": 5,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 23.23,
+          "stake_pending": 23.23,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {}
+        },
+        "tickets": [
+          {
+            "date": "2026-10-02",
+            "type": "2串1",
+            "stake": 5.75,
+            "potential": 30.42,
+            "total_odds": 5.29,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-02_19728241",
+                "home": "AFC温布尔登",
+                "away": "斯蒂文尼奇",
+                "sel": "home",
+                "score": null,
+                "odds": 2.3,
+                "hit": null
+              },
+              {
+                "match": "2026-10-02_19745054",
+                "home": "阿尔梅里亚",
+                "away": "布尔戈斯",
+                "sel": "home",
+                "score": null,
+                "odds": 2.3,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-02",
+            "type": "2串1",
+            "stake": 4.95,
+            "potential": 24.93,
+            "total_odds": 5.04,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-02_19728233",
+                "home": "彼得堡联",
+                "away": "诺茨郡",
+                "sel": "away",
+                "score": null,
+                "odds": 2.19,
+                "hit": null
+              },
+              {
+                "match": "2026-10-02_19728241",
+                "home": "AFC温布尔登",
+                "away": "斯蒂文尼奇",
+                "sel": "home",
+                "score": null,
+                "odds": 2.3,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-02",
+            "type": "2串1",
+            "stake": 4.95,
+            "potential": 24.93,
+            "total_odds": 5.04,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-02_19728233",
+                "home": "彼得堡联",
+                "away": "诺茨郡",
+                "sel": "away",
+                "score": null,
+                "odds": 2.19,
+                "hit": null
+              },
+              {
+                "match": "2026-10-02_19745054",
+                "home": "阿尔梅里亚",
+                "away": "布尔戈斯",
+                "sel": "home",
+                "score": null,
+                "odds": 2.3,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-02",
+            "type": "3串1",
+            "stake": 3.26,
+            "potential": 37.77,
+            "total_odds": 11.59,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-02_19728233",
+                "home": "彼得堡联",
+                "away": "诺茨郡",
+                "sel": "away",
+                "score": null,
+                "odds": 2.19,
+                "hit": null
+              },
+              {
+                "match": "2026-10-02_19728241",
+                "home": "AFC温布尔登",
+                "away": "斯蒂文尼奇",
+                "sel": "home",
+                "score": null,
+                "odds": 2.3,
+                "hit": null
+              },
+              {
+                "match": "2026-10-02_19745054",
+                "home": "阿尔梅里亚",
+                "away": "布尔戈斯",
+                "sel": "home",
+                "score": null,
+                "odds": 2.3,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-02",
+            "type": "3串4",
+            "stake": 4.32,
+            "potential": 29.11,
+            "total_odds": 6.74,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-02_19728233",
+                "home": "彼得堡联",
+                "away": "诺茨郡",
+                "sel": "away",
+                "score": null,
+                "odds": 2.19,
+                "hit": null
+              },
+              {
+                "match": "2026-10-02_19728241",
+                "home": "AFC温布尔登",
+                "away": "斯蒂文尼奇",
+                "sel": "home",
+                "score": null,
+                "odds": 2.3,
+                "hit": null
+              },
+              {
+                "match": "2026-10-02_19745054",
+                "home": "阿尔梅里亚",
+                "away": "布尔戈斯",
+                "sel": "home",
+                "score": null,
+                "odds": 2.3,
+                "hit": null
               }
             ]
           }
