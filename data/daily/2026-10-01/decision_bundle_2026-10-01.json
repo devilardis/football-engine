@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "date": "2026-10-01",
+  "created_at": "2026-10-01T11:00:08",
+  "inputs": {
+    "import_manifest": {
+      "import_date": "2026-10-01",
+      "source": "djyy",
+      "fixture_count": 2,
+      "sha256": "59071b762ad176d49d13d33c1d9ef8a707adf1a6ec498f60bdb17a434a3bcbab",
+      "timestamp": "2026-10-01T11:00:02.211294",
+      "fallback_used": true
+    },
+    "config_prediction": "722c2a8aa54aaa4a7c1410cefc25af75b6072ca6f9d483f8133238c7e1dc4edf",
+    "config_strategy": "960487e9fe4ef15aaeafc92f5a70acf0551415dbef35297df14777f04a9511f6",
+    "model_code_hashes": {}
+  },
+  "outputs": {
+    "predictions_hash": "acdcef30354a0ed9c00ea6cf3285b8c3b7bbda98766d055f2db82c46c8261847",
+    "predictions_count": 1,
+    "betting_plan_hash": "f1fd4d8d8942f4aed05305a02a6f9b1a682dd9c97fd8cb8676b360a2ec872fe4",
+    "total_stake": 0.0
+  },
+  "bundle_sha256": "ec4e027c68c29dd529aa6d6e12332d976429870900442a0f276a160c54114233"
+}
