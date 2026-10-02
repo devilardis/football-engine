@@ -107,7 +107,15 @@ def run_daily_pipeline(target_date: date, predict_only: bool = False):
         fixtures, manifest = source_mgr.fetch_merged_fixtures(target_date)
     except Exception:
         # 融合失败时降级为简单 fallback
-        fixtures, manifest = source_mgr.fetch_fixtures(target_date)
+        try:
+            fixtures, manifest = source_mgr.fetch_fixtures(target_date)
+        except Exception as e:
+            # 2026-10-02 修复: 国庆假期等竞彩无在售场次时所有源返回空, 此前直接
+            # RuntimeError 崩溃致 CI 连红+报错邮件。无赛程是合法状态 → 优雅跳过,
+            # 结算回补机制(每日回溯4天)会在赛程恢复后自动补齐。
+            print(f"  ⚠ {target_date} 无在售比赛或数据源暂不可用: {e}")
+            print("  ⏭ 优雅跳过本轮预测（结算回补机制会在数据恢复后自动补齐）")
+            return
     print(f"  ✓ 获取 {len(fixtures)} 场比赛 (来源: {manifest.source})")
 
     # 关键过滤：只预测"竞彩编号所属比赛日"== target_date 的场次

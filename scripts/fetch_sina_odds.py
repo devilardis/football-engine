@@ -219,6 +219,7 @@ def main():
 
     print(f"[fetch_sina_odds] Fetching odds for {len(dates)} date(s)...")
 
+    all_odds = []  # 2026-10-02 修复: 空日期(如国庆假期无在售场次)时此变量从未赋值, 尾部打印 UnboundLocalError
     for date_str in dates:
         print(f"  → fetching {date_str}...")
         matches = fetch_match_list(date_str)
@@ -253,7 +254,6 @@ def main():
 
         import concurrent.futures
 
-        all_odds = []
         def process_match(m):
             mid = m.get("matchId", "")
             if not mid:
