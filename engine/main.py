@@ -116,6 +116,16 @@ def run_daily_pipeline(target_date: date, predict_only: bool = False):
             print(f"  ⚠ {target_date} 无在售比赛或数据源暂不可用: {e}")
             print("  ⏭ 优雅跳过本轮预测（结算回补机制会在数据恢复后自动补齐）")
             return
+    # 2026-10-02 修复: 竞彩在售以体彩官方为准。官方 API 返回 0 场时(如国庆假期
+    # 停售), DJYY 兜底源会喂入非竞彩比赛(数字ID、无竞彩编号)——预测它们毫无意义
+    # 且自检会正确拦截。官方为空 = 当日无在售 = 优雅跳过本轮。
+    import re as _re
+    _jc = [f for f in fixtures if _re.search(r"周[一二三四五六日]\d{3}", f.match_id or "")]
+    if fixtures and not _jc:
+        print(f"  ⚠ {target_date} 体彩官方返回 0 场在售(数据源 {manifest.source} 提供的 "
+              f"{len(fixtures)} 场均无竞彩编号) → 判定当日竞彩无在售，优雅跳过")
+        return
+    fixtures = _jc if _jc else fixtures
     print(f"  ✓ 获取 {len(fixtures)} 场比赛 (来源: {manifest.source})")
 
     # 关键过滤：只预测"竞彩编号所属比赛日"== target_date 的场次

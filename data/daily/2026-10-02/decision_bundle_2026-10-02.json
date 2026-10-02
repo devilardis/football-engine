@@ -1,14 +1,14 @@
 {
-  "version": 3,
+  "version": 1,
   "date": "2026-10-02",
-  "created_at": "2026-10-02T14:35:39",
+  "created_at": "2026-10-02T14:52:47",
   "inputs": {
     "import_manifest": {
       "import_date": "2026-10-02",
       "source": "djyy",
       "fixture_count": 19,
       "sha256": "1f26022472d9dabd2a69de575e6235c5bf2897708a421ec25b17c4fbbd68607e",
-      "timestamp": "2026-10-02T14:34:35.122362",
+      "timestamp": "2026-10-02T14:51:44.443541",
       "fallback_used": true
     },
     "config_prediction": "722c2a8aa54aaa4a7c1410cefc25af75b6072ca6f9d483f8133238c7e1dc4edf",
@@ -16,10 +16,10 @@
     "model_code_hashes": {}
   },
   "outputs": {
-    "predictions_hash": "450339e2485a67d9311e82027d17c47467c6167605cb88a95f9f41ec29b1969a",
+    "predictions_hash": "a430f52df5e04feafcb12610c4c9a83b5c723b5217995ed70f4e488af2623bfd",
     "predictions_count": 18,
-    "betting_plan_hash": "1923f7103a430436974edeb40dd882bee0c31efbca5e0babc2a92b6929fb9f4f",
+    "betting_plan_hash": "f76c85ae4372db9f3b3d462c63dd91ab6ccf71ca4cd722418dc0df9ccfd64ca6",
     "total_stake": 0.0
   },
-  "bundle_sha256": "cf3a162a99f4608e4967a09e382652383ed0772ba8b095c0b53d85490d6aa5a2"
+  "bundle_sha256": "83a6d9a6dcaff5c4027be0822b172c148efa98c7be58f0408fb677e871bfbdd6"
 }
