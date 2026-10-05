@@ -6,7 +6,53 @@
   "expected_roi": 0.0,
   "bankroll": 3870.7891,
   "breaker_multiplier": 1.0,
-  "parlay": [],
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-10-05_周一007",
+          "home": "波黑",
+          "away": "波兰",
+          "league": "欧国联",
+          "sel": "away",
+          "odds": 2.12,
+          "prob": 0.426,
+          "cal_prob": 0.503,
+          "market_prob": 0.418,
+          "source": "fusion",
+          "hit_prob": 0.503
+        },
+        {
+          "match": "2026-10-05_周一005",
+          "home": "北爱尔兰",
+          "away": "格鲁吉亚",
+          "league": "欧国联",
+          "sel": "home",
+          "odds": 2.2,
+          "prob": 0.416,
+          "cal_prob": 0.503,
+          "market_prob": 0.403,
+          "source": "fusion",
+          "hit_prob": 0.503
+        }
+      ],
+      "total_odds": 4.66,
+      "model_ev": -0.35,
+      "cal_ev": 2.48,
+      "cal_roi": 0.1782,
+      "market_ev": -0.43,
+      "market_roi": -0.2155,
+      "hit_prob_cal": 0.253,
+      "recommended": true,
+      "stake": 13.93,
+      "n_bets": 1,
+      "potential": 64.97,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    }
+  ],
   "score_parlay": [],
   "parlay_calibration": {
     "overall": 0.5384,
