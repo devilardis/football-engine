@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T03:33:32",
+  "generated_at": "2026-10-05T12:29:27",
   "baseline_pre_upgrade": {
     "brier": 0.6172206898122067,
     "hit_rate": 0.5164319248826291,
@@ -15,18 +15,18 @@
     "hit_rate": 0.5164
   },
   "v2_clean": {
-    "n": 458,
-    "brier": 0.5658,
-    "hit_rate": 0.5546
+    "n": 486,
+    "brier": 0.5572,
+    "hit_rate": 0.5638
   },
   "v2_vs_market_same_period": {
-    "n": 417,
-    "brier": 0.571,
-    "hit_rate": 0.5516
+    "n": 443,
+    "brier": 0.5608,
+    "hit_rate": 0.5621
   },
   "verdict": "IMPROVED",
   "paired_vs_legacy": {
-    "delta_brier": 0.0514,
-    "z": 2.58
+    "delta_brier": 0.06,
+    "z": 3.06
   }
 }
