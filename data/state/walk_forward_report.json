@@ -1,46 +1,46 @@
 {
-  "total_matches": 919,
+  "total_matches": 922,
   "date_range": [
     "2026-07-19",
-    "2026-10-05"
+    "2026-10-06"
   ],
   "metrics": {
-    "brier": 0.5844,
-    "weighted_brier": 0.5812,
+    "brier": 0.5845,
+    "weighted_brier": 0.5814,
     "rps": 0.2007,
     "weighted_rps": 0.1997,
-    "log_loss": 0.982,
-    "hit_rate": 0.5419,
-    "ece": 0.0913
+    "log_loss": 0.9822,
+    "hit_rate": 0.5412,
+    "ece": 0.0899
   },
   "draw_analysis": {
-    "actual_draws": 223,
-    "actual_draw_rate": 0.2427,
+    "actual_draws": 224,
+    "actual_draw_rate": 0.243,
     "predicted_draws": 26,
-    "predicted_draw_rate": 0.0283,
+    "predicted_draw_rate": 0.0282,
     "max_draw_prob": 0.5025,
     "avg_draw_prob": 0.2574,
-    "avg_market_draw": 0.2424,
-    "market_high_draw_n": 180,
-    "market_high_draw_actual": 60,
-    "market_high_draw_rate": 0.3333
+    "avg_market_draw": 0.2425,
+    "market_high_draw_n": 181,
+    "market_high_draw_actual": 61,
+    "market_high_draw_rate": 0.337
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5386,
-      "n": 919
+      "hit_rate": 0.538,
+      "n": 922
     },
     "market": {
-      "hit_rate": 0.5553,
-      "n": 814
+      "hit_rate": 0.5545,
+      "n": 817
     },
     "hybrid_v2": {
-      "hit_rate": 0.5,
-      "n": 814
+      "hit_rate": 0.5006,
+      "n": 817
     },
     "market_d28": {
-      "hit_rate": 0.5147,
-      "n": 814
+      "hit_rate": 0.5153,
+      "n": 817
     }
   },
   "by_league": {
@@ -68,17 +68,17 @@
       "brier": 0.6567,
       "rps": 0.2108
     },
+    "欧国联": {
+      "n": 45,
+      "hit_rate": 0.6222,
+      "brier": 0.5005,
+      "rps": 0.1672
+    },
     "欧罗巴": {
       "n": 44,
       "hit_rate": 0.5,
       "brier": 0.6113,
       "rps": 0.2354
-    },
-    "欧国联": {
-      "n": 44,
-      "hit_rate": 0.6364,
-      "brier": 0.4948,
-      "rps": 0.1681
     },
     "K1联赛": {
       "n": 42,
@@ -200,6 +200,12 @@
       "brier": 0.6128,
       "rps": 0.1994
     },
+    "国际赛": {
+      "n": 13,
+      "hit_rate": 0.6923,
+      "brier": 0.4871,
+      "rps": 0.19
+    },
     "巴西杯": {
       "n": 12,
       "hit_rate": 0.4167,
@@ -211,12 +217,6 @@
       "hit_rate": 0.4545,
       "brier": 0.689,
       "rps": 0.1721
-    },
-    "国际赛": {
-      "n": 11,
-      "hit_rate": 0.7273,
-      "brier": 0.4722,
-      "rps": 0.1783
     },
     "瑞超": {
       "n": 9,
