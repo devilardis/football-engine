@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-06T02:32:10.052279+00:00",
+  "generated_at": "2026-10-06T08:29:33.509137+00:00",
   "parlay": {
-    "n_tickets": 103,
-    "n_pending": 0,
+    "n_tickets": 104,
+    "n_pending": 1,
     "n_settled": 103,
     "n_won": 27,
     "hit_rate": 0.2621,
     "stake": 562.83,
-    "stake_committed": 562.83,
-    "stake_pending": 0,
+    "stake_committed": 576.76,
+    "stake_pending": 13.93,
     "return": 613.08,
     "roi": 0.0893,
     "avg_odds": 5.82,
@@ -4109,6 +4109,42 @@
             "score": null,
             "odds": 2.31,
             "hit": false
+          }
+        ]
+      },
+      {
+        "date": "2026-10-06",
+        "type": "2串1",
+        "stake": 13.93,
+        "potential": 68.45,
+        "total_odds": 4.91,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-06_周二012",
+            "home": "芝加哥火焰",
+            "away": "温哥华白浪",
+            "sel": "away",
+            "score": null,
+            "odds": 2.1,
+            "hit": null
+          },
+          {
+            "match": "2026-10-06_周二003",
+            "home": "哈萨克",
+            "away": "法罗群岛",
+            "sel": "home",
+            "score": null,
+            "odds": 2.34,
+            "hit": null
           }
         ]
       }
@@ -25107,6 +25143,66 @@
                 "score": null,
                 "odds": 2.31,
                 "hit": false
+              }
+            ]
+          }
+        ]
+      },
+      "score_parlay": {
+        "stats": null,
+        "tickets": []
+      }
+    },
+    "2026-10-06": {
+      "parlay": {
+        "stats": {
+          "n_tickets": 1,
+          "n_pending": 1,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 13.93,
+          "stake_pending": 13.93,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {}
+        },
+        "tickets": [
+          {
+            "date": "2026-10-06",
+            "type": "2串1",
+            "stake": 13.93,
+            "potential": 68.45,
+            "total_odds": 4.91,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-06_周二012",
+                "home": "芝加哥火焰",
+                "away": "温哥华白浪",
+                "sel": "away",
+                "score": null,
+                "odds": 2.1,
+                "hit": null
+              },
+              {
+                "match": "2026-10-06_周二003",
+                "home": "哈萨克",
+                "away": "法罗群岛",
+                "sel": "home",
+                "score": null,
+                "odds": 2.34,
+                "hit": null
               }
             ]
           }
