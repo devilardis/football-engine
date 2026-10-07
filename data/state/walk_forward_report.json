@@ -1,25 +1,25 @@
 {
-  "total_matches": 929,
+  "total_matches": 931,
   "date_range": [
     "2026-07-19",
     "2026-10-06"
   ],
   "metrics": {
-    "brier": 0.5837,
-    "weighted_brier": 0.5805,
-    "rps": 0.2005,
-    "weighted_rps": 0.1995,
-    "log_loss": 0.9811,
+    "brier": 0.5835,
+    "weighted_brier": 0.5802,
+    "rps": 0.2006,
+    "weighted_rps": 0.1996,
+    "log_loss": 0.9808,
     "hit_rate": 0.5414,
-    "ece": 0.087
+    "ece": 0.0873
   },
   "draw_analysis": {
     "actual_draws": 225,
-    "actual_draw_rate": 0.2422,
+    "actual_draw_rate": 0.2417,
     "predicted_draws": 26,
-    "predicted_draw_rate": 0.028,
+    "predicted_draw_rate": 0.0279,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.2571,
+    "avg_draw_prob": 0.257,
     "avg_market_draw": 0.2424,
     "market_high_draw_n": 182,
     "market_high_draw_actual": 61,
@@ -27,20 +27,20 @@
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5382,
-      "n": 929
+      "hit_rate": 0.5381,
+      "n": 931
     },
     "market": {
-      "hit_rate": 0.5535,
-      "n": 822
+      "hit_rate": 0.5534,
+      "n": 824
     },
     "hybrid_v2": {
       "hit_rate": 0.5,
-      "n": 822
+      "n": 824
     },
     "market_d28": {
       "hit_rate": 0.5146,
-      "n": 822
+      "n": 824
     }
   },
   "by_league": {
@@ -153,10 +153,10 @@
       "rps": 0.1876
     },
     "美职": {
-      "n": 20,
-      "hit_rate": 0.45,
-      "brier": 0.6104,
-      "rps": 0.2023
+      "n": 21,
+      "hit_rate": 0.4286,
+      "brier": 0.6167,
+      "rps": 0.2091
     },
     "解放者杯": {
       "n": 16,
@@ -182,6 +182,12 @@
       "brier": 0.4304,
       "rps": 0.1409
     },
+    "国际赛": {
+      "n": 14,
+      "hit_rate": 0.7143,
+      "brier": 0.4693,
+      "rps": 0.1833
+    },
     "荷乙": {
       "n": 13,
       "hit_rate": 0.6923,
@@ -199,12 +205,6 @@
       "hit_rate": 0.5385,
       "brier": 0.6128,
       "rps": 0.1994
-    },
-    "国际赛": {
-      "n": 13,
-      "hit_rate": 0.6923,
-      "brier": 0.4871,
-      "rps": 0.19
     },
     "巴西杯": {
       "n": 12,
