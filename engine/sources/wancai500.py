@@ -23,6 +23,13 @@ from .base import DataSource, Fixture, MatchResult, OddsSnapshot
 LIVE_URL = "https://live.500.com/"
 ODDS_URL = "https://odds.500.com/json/odds.php"
 
+# fork patch (2026-10-07): 海外 CI 访问 odds.500.com 连接被重置，
+# 复用 SPORTTERY_PROXY 走国内中继，路由 /api/500wan/* -> odds.500.com/*
+import os as _os
+_WANCAI_PROXY = _os.environ.get("SPORTTERY_PROXY", "").rstrip("/")
+if _WANCAI_PROXY:
+    ODDS_URL = _WANCAI_PROXY + "/api/500wan/json/odds.php"
+
 # 三套请求头（不同域名不同 Referer）
 _UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
        "AppleWebKit/537.36 (KHTML, like Gecko) "
