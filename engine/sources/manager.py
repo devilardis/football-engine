@@ -423,6 +423,15 @@ class SourceManager:
             if not djyy_id:
                 continue
 
+            # 2026-10-05 限流根治: 每场每日只调一次 DJYY（缓存命中直接用）。
+            # 此前 48 轮/天 × 17 场 × 3 接口 ≈ 2400+ 调用/天 → 被限流后
+            # enrichment 大部分轮次为空（情境层 0% 的根因）。
+            _cc = context_cache if context_cache is not None else {}
+            _ck = f"enrich_{djyy_id}"
+            if _cc.get(_ck):
+                enrichment[fixture.match_id] = _cc[_ck]
+                continue
+
             try:
                 if time.monotonic() > deadline:
                     break
@@ -535,6 +544,8 @@ class SourceManager:
                     "injuries": injuries,
                     "context": _extract_context(comparison, info, _lineups),
                 }
+                if context_cache is not None:
+                    _cc[f"enrich_{djyy_id}"] = enrichment[fixture.match_id]
             except Exception:
                 continue
 
