@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:31:56.792596+00:00",
+  "generated_at": "2026-10-08T15:19:42.514116+00:00",
   "parlay": {
     "n_tickets": 113,
     "n_pending": 5,
@@ -7,8 +7,8 @@
     "n_won": 29,
     "hit_rate": 0.2685,
     "stake": 586.05,
-    "stake_committed": 609.27,
-    "stake_pending": 23.22,
+    "stake_committed": 609.26,
+    "stake_pending": 23.21,
     "return": 688.27,
     "roi": 0.1744,
     "avg_odds": 6.26,
@@ -4315,9 +4315,9 @@
       {
         "date": "2026-10-08",
         "type": "2串1",
-        "stake": 5.75,
-        "potential": 88.55,
-        "total_odds": 15.4,
+        "stake": 5.74,
+        "potential": 86.38,
+        "total_odds": 15.05,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4334,7 +4334,7 @@
             "away": "弗拉门戈",
             "sel": "draw",
             "score": null,
-            "odds": 3.5,
+            "odds": 3.42,
             "hit": null
           },
           {
@@ -4351,8 +4351,8 @@
       {
         "date": "2026-10-08",
         "type": "2串1",
-        "stake": 5.39,
-        "potential": 67.59,
+        "stake": 5.42,
+        "potential": 67.97,
         "total_odds": 12.54,
         "odds_source": null,
         "note": "待赛",
@@ -4387,9 +4387,9 @@
       {
         "date": "2026-10-08",
         "type": "2串1",
-        "stake": 4.88,
-        "potential": 48.68,
-        "total_odds": 9.97,
+        "stake": 4.84,
+        "potential": 47.18,
+        "total_odds": 9.75,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4406,7 +4406,7 @@
             "away": "弗拉门戈",
             "sel": "draw",
             "score": null,
-            "odds": 3.5,
+            "odds": 3.42,
             "hit": null
           },
           {
@@ -4424,8 +4424,8 @@
         "date": "2026-10-08",
         "type": "3串1",
         "stake": 3.08,
-        "potential": 135.18,
-        "total_odds": 43.89,
+        "potential": 132.09,
+        "total_odds": 42.89,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4443,7 +4443,7 @@
             "away": "弗拉门戈",
             "sel": "draw",
             "score": null,
-            "odds": 3.5,
+            "odds": 3.42,
             "hit": null
           },
           {
@@ -4469,9 +4469,9 @@
       {
         "date": "2026-10-08",
         "type": "3串4",
-        "stake": 4.12,
-        "potential": 84.26,
-        "total_odds": 20.45,
+        "stake": 4.13,
+        "potential": 82.83,
+        "total_odds": 20.06,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4489,7 +4489,7 @@
             "away": "弗拉门戈",
             "sel": "draw",
             "score": null,
-            "odds": 3.5,
+            "odds": 3.42,
             "hit": null
           },
           {
@@ -25860,8 +25860,8 @@
           "n_won": 0,
           "hit_rate": null,
           "stake": 0,
-          "stake_committed": 23.22,
-          "stake_pending": 23.22,
+          "stake_committed": 23.21,
+          "stake_pending": 23.21,
           "return": 0,
           "roi": null,
           "avg_odds": null,
@@ -25871,9 +25871,9 @@
           {
             "date": "2026-10-08",
             "type": "2串1",
-            "stake": 5.75,
-            "potential": 88.55,
-            "total_odds": 15.4,
+            "stake": 5.74,
+            "potential": 86.38,
+            "total_odds": 15.05,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -25890,7 +25890,7 @@
                 "away": "弗拉门戈",
                 "sel": "draw",
                 "score": null,
-                "odds": 3.5,
+                "odds": 3.42,
                 "hit": null
               },
               {
@@ -25907,8 +25907,8 @@
           {
             "date": "2026-10-08",
             "type": "2串1",
-            "stake": 5.39,
-            "potential": 67.59,
+            "stake": 5.42,
+            "potential": 67.97,
             "total_odds": 12.54,
             "odds_source": null,
             "note": "待赛",
@@ -25943,9 +25943,9 @@
           {
             "date": "2026-10-08",
             "type": "2串1",
-            "stake": 4.88,
-            "potential": 48.68,
-            "total_odds": 9.97,
+            "stake": 4.84,
+            "potential": 47.18,
+            "total_odds": 9.75,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -25962,7 +25962,7 @@
                 "away": "弗拉门戈",
                 "sel": "draw",
                 "score": null,
-                "odds": 3.5,
+                "odds": 3.42,
                 "hit": null
               },
               {
@@ -25980,8 +25980,8 @@
             "date": "2026-10-08",
             "type": "3串1",
             "stake": 3.08,
-            "potential": 135.18,
-            "total_odds": 43.89,
+            "potential": 132.09,
+            "total_odds": 42.89,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -25999,7 +25999,7 @@
                 "away": "弗拉门戈",
                 "sel": "draw",
                 "score": null,
-                "odds": 3.5,
+                "odds": 3.42,
                 "hit": null
               },
               {
@@ -26025,9 +26025,9 @@
           {
             "date": "2026-10-08",
             "type": "3串4",
-            "stake": 4.12,
-            "potential": 84.26,
-            "total_odds": 20.45,
+            "stake": 4.13,
+            "potential": 82.83,
+            "total_odds": 20.06,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -26045,7 +26045,7 @@
                 "away": "弗拉门戈",
                 "sel": "draw",
                 "score": null,
-                "odds": 3.5,
+                "odds": 3.42,
                 "hit": null
               },
               {
