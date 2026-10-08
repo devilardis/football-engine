@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:36:08.291798+00:00",
+  "generated_at": "2026-10-08T02:18:33.215712+00:00",
   "parlay": {
     "n_tickets": 113,
     "n_pending": 5,
@@ -4315,8 +4315,8 @@
       {
         "date": "2026-10-08",
         "type": "2串1",
-        "stake": 5.61,
-        "potential": 85.83,
+        "stake": 5.65,
+        "potential": 86.45,
         "total_odds": 15.3,
         "odds_source": null,
         "note": "待赛",
@@ -4351,9 +4351,9 @@
       {
         "date": "2026-10-08",
         "type": "2串1",
-        "stake": 5.38,
-        "potential": 71.34,
-        "total_odds": 13.26,
+        "stake": 5.37,
+        "potential": 69.61,
+        "total_odds": 12.96,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4370,7 +4370,7 @@
             "away": "米内罗竞技",
             "sel": "draw",
             "score": null,
-            "odds": 3.12,
+            "odds": 3.05,
             "hit": null
           },
           {
@@ -4387,9 +4387,9 @@
       {
         "date": "2026-10-08",
         "type": "2串1",
-        "stake": 5.06,
-        "potential": 56.83,
-        "total_odds": 11.23,
+        "stake": 5.03,
+        "potential": 55.23,
+        "total_odds": 10.98,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4415,7 +4415,7 @@
             "away": "米内罗竞技",
             "sel": "draw",
             "score": null,
-            "odds": 3.12,
+            "odds": 3.05,
             "hit": null
           }
         ]
@@ -4423,9 +4423,9 @@
       {
         "date": "2026-10-08",
         "type": "3串1",
-        "stake": 3.08,
-        "potential": 147.03,
-        "total_odds": 47.74,
+        "stake": 3.07,
+        "potential": 143.26,
+        "total_odds": 46.66,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4452,7 +4452,7 @@
             "away": "米内罗竞技",
             "sel": "draw",
             "score": null,
-            "odds": 3.12,
+            "odds": 3.05,
             "hit": null
           },
           {
@@ -4469,9 +4469,9 @@
       {
         "date": "2026-10-08",
         "type": "3串4",
-        "stake": 4.09,
-        "potential": 89.5,
-        "total_odds": 21.88,
+        "stake": 4.1,
+        "potential": 88.06,
+        "total_odds": 21.48,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4498,7 +4498,7 @@
             "away": "米内罗竞技",
             "sel": "draw",
             "score": null,
-            "odds": 3.12,
+            "odds": 3.05,
             "hit": null
           },
           {
@@ -25871,8 +25871,8 @@
           {
             "date": "2026-10-08",
             "type": "2串1",
-            "stake": 5.61,
-            "potential": 85.83,
+            "stake": 5.65,
+            "potential": 86.45,
             "total_odds": 15.3,
             "odds_source": null,
             "note": "待赛",
@@ -25907,9 +25907,9 @@
           {
             "date": "2026-10-08",
             "type": "2串1",
-            "stake": 5.38,
-            "potential": 71.34,
-            "total_odds": 13.26,
+            "stake": 5.37,
+            "potential": 69.61,
+            "total_odds": 12.96,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -25926,7 +25926,7 @@
                 "away": "米内罗竞技",
                 "sel": "draw",
                 "score": null,
-                "odds": 3.12,
+                "odds": 3.05,
                 "hit": null
               },
               {
@@ -25943,9 +25943,9 @@
           {
             "date": "2026-10-08",
             "type": "2串1",
-            "stake": 5.06,
-            "potential": 56.83,
-            "total_odds": 11.23,
+            "stake": 5.03,
+            "potential": 55.23,
+            "total_odds": 10.98,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -25971,7 +25971,7 @@
                 "away": "米内罗竞技",
                 "sel": "draw",
                 "score": null,
-                "odds": 3.12,
+                "odds": 3.05,
                 "hit": null
               }
             ]
@@ -25979,9 +25979,9 @@
           {
             "date": "2026-10-08",
             "type": "3串1",
-            "stake": 3.08,
-            "potential": 147.03,
-            "total_odds": 47.74,
+            "stake": 3.07,
+            "potential": 143.26,
+            "total_odds": 46.66,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -26008,7 +26008,7 @@
                 "away": "米内罗竞技",
                 "sel": "draw",
                 "score": null,
-                "odds": 3.12,
+                "odds": 3.05,
                 "hit": null
               },
               {
@@ -26025,9 +26025,9 @@
           {
             "date": "2026-10-08",
             "type": "3串4",
-            "stake": 4.09,
-            "potential": 89.5,
-            "total_odds": 21.88,
+            "stake": 4.1,
+            "potential": 88.06,
+            "total_odds": 21.48,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -26054,7 +26054,7 @@
                 "away": "米内罗竞技",
                 "sel": "draw",
                 "score": null,
-                "odds": 3.12,
+                "odds": 3.05,
                 "hit": null
               },
               {
