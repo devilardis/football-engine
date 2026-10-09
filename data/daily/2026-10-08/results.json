@@ -16,5 +16,14 @@
     "away_team": "奥卢",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "2026-10-08_周四003",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "桑托斯",
+    "away_team": "弗拉门戈",
+    "half_home_score": 0,
+    "half_away_score": 2
   }
 ]

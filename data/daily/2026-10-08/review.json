@@ -1,13 +1,13 @@
 {
   "date": "2026-10-08",
-  "n_matches": 2,
-  "hit_rate": 0.5,
-  "hits": 1,
+  "n_matches": 3,
+  "hit_rate": 0.6667,
+  "hits": 2,
   "source_brier": {
-    "model": 0.4464,
-    "market": 0.6921,
+    "model": 0.5266,
+    "market": 0.7559,
     "djyy": null,
-    "final": 0.6809
+    "final": 0.5877
   },
   "by_league": {
     "芬超": {
@@ -15,6 +15,12 @@
       "hit_rate": 0.5,
       "wilson_lower": 0.0945,
       "avg_brier": 0.6809
+    },
+    "巴甲": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.4013
     }
   },
   "by_confidence_tier": {
@@ -23,6 +29,12 @@
       "hit_rate": 0.5,
       "wilson_lower": 0.0945,
       "avg_brier": 0.6809
+    },
+    "mid": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.4013
     }
   },
   "by_odds_band": {
@@ -31,6 +43,12 @@
       "hit_rate": 0.5,
       "wilson_lower": 0.0945,
       "avg_brier": 0.6809
+    },
+    "3.0+": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.4013
     }
   },
   "score_stats": {
@@ -54,18 +72,22 @@
     }
   },
   "market_signal_stats": {
-    "n": 2,
+    "n": 3,
     "hits": 1
   },
   "layered": {
-    "log_loss_final": 1.181,
-    "rps_final": 0.3135,
-    "rps_market": 0.324,
+    "log_loss_final": 1.0168,
+    "rps_final": 0.2346,
+    "rps_market": 0.2717,
     "goal_framework": {
-      "n": 2,
+      "n": 3,
       "hits": 1
     },
     "prob_bands": {
+      "50-60%": {
+        "n": 1,
+        "hit_rate": 1.0
+      },
       "60%+": {
         "n": 2,
         "hit_rate": 0.5
@@ -75,11 +97,15 @@
       "alert": {
         "n": 2,
         "hit_rate": 0.5
+      },
+      "watch": {
+        "n": 1,
+        "hit_rate": 1.0
       }
     }
   },
   "biases": [],
   "total_pnl": 0.0,
-  "generated_at": "2026-10-08T22:07:23.926995",
-  "sha256": "00c9650995d91103a46536dbe23fc902"
+  "generated_at": "2026-10-09T00:42:20.240177",
+  "sha256": "a7b5d0fce86584daf11273902b173fb4"
 }
