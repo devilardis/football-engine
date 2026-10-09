@@ -1,13 +1,13 @@
 {
   "date": "2026-10-08",
-  "n_matches": 3,
-  "hit_rate": 0.6667,
-  "hits": 2,
+  "n_matches": 4,
+  "hit_rate": 0.75,
+  "hits": 3,
   "source_brier": {
-    "model": 0.5266,
-    "market": 0.7559,
+    "model": 0.5549,
+    "market": 0.7495,
     "djyy": null,
-    "final": 0.5877
+    "final": 0.5361
   },
   "by_league": {
     "芬超": {
@@ -17,10 +17,10 @@
       "avg_brier": 0.6809
     },
     "巴甲": {
-      "n": 1,
+      "n": 2,
       "hit_rate": 1.0,
-      "wilson_lower": 0.2065,
-      "avg_brier": 0.4013
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.3914
     }
   },
   "by_confidence_tier": {
@@ -31,10 +31,10 @@
       "avg_brier": 0.6809
     },
     "mid": {
-      "n": 1,
+      "n": 2,
       "hit_rate": 1.0,
-      "wilson_lower": 0.2065,
-      "avg_brier": 0.4013
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.3914
     }
   },
   "by_odds_band": {
@@ -49,6 +49,12 @@
       "hit_rate": 1.0,
       "wilson_lower": 0.2065,
       "avg_brier": 0.4013
+    },
+    "2.0-3.0": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.3814
     }
   },
   "score_stats": {
@@ -72,20 +78,20 @@
     }
   },
   "market_signal_stats": {
-    "n": 3,
+    "n": 4,
     "hits": 1
   },
   "layered": {
-    "log_loss_final": 1.0168,
-    "rps_final": 0.2346,
-    "rps_market": 0.2717,
+    "log_loss_final": 0.9346,
+    "rps_final": 0.1927,
+    "rps_market": 0.2357,
     "goal_framework": {
-      "n": 3,
+      "n": 4,
       "hits": 1
     },
     "prob_bands": {
       "50-60%": {
-        "n": 1,
+        "n": 2,
         "hit_rate": 1.0
       },
       "60%+": {
@@ -95,8 +101,8 @@
     },
     "freshness_groups": {
       "alert": {
-        "n": 2,
-        "hit_rate": 0.5
+        "n": 3,
+        "hit_rate": 0.6667
       },
       "watch": {
         "n": 1,
@@ -106,6 +112,6 @@
   },
   "biases": [],
   "total_pnl": 0.0,
-  "generated_at": "2026-10-09T00:42:20.240177",
-  "sha256": "a7b5d0fce86584daf11273902b173fb4"
+  "generated_at": "2026-10-09T02:13:35.615881",
+  "sha256": "98e37f2d35067fc648bd8a0e8b4a1017"
 }

@@ -376,10 +376,10 @@
     "rest_days": 3
   },
   "巴拉纳竞技": {
-    "elo": 1683.8,
-    "attack": 0.7009,
-    "defense": 0.448,
-    "form": 0.5922,
+    "elo": 1679.9,
+    "attack": 0.7029,
+    "defense": 0.4747,
+    "form": 0.4145,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -568,10 +568,10 @@
     "rest_days": 3
   },
   "米内罗竞技": {
-    "elo": 1661.9,
-    "attack": 0.827,
-    "defense": 0.6774,
-    "form": 0.6176,
+    "elo": 1665.8,
+    "attack": 0.8167,
+    "defense": 0.6817,
+    "form": 0.4323,
     "injury": 0.0,
     "rest_days": 3
   },
