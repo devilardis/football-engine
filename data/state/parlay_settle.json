@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-10T14:32:07.412648+00:00",
+  "generated_at": "2026-10-10T18:55:27.239392+00:00",
   "parlay": {
-    "n_tickets": 114,
-    "n_pending": 0,
+    "n_tickets": 119,
+    "n_pending": 5,
     "n_settled": 114,
     "n_won": 31,
     "hit_rate": 0.2719,
     "stake": 623.19,
-    "stake_committed": 623.19,
-    "stake_pending": 0,
+    "stake_committed": 646.41,
+    "stake_pending": 23.22,
     "return": 745.51,
     "roi": 0.1963,
     "avg_odds": 6.86,
@@ -31,17 +31,17 @@
     }
   },
   "score_parlay": {
-    "n_tickets": 190,
-    "n_pending": 5,
-    "n_settled": 185,
+    "n_tickets": 195,
+    "n_pending": 8,
+    "n_settled": 187,
     "n_won": 0,
     "hit_rate": 0.0,
-    "stake": 574.0,
-    "stake_committed": 590.0,
-    "stake_pending": 16.0,
+    "stake": 584.0,
+    "stake_committed": 606.0,
+    "stake_pending": 22.0,
     "return": 0.0,
     "roi": -1.0,
-    "avg_odds": 820.39,
+    "avg_odds": 828.59,
     "by_type": {
       "比分2串1": {
         "n": 117,
@@ -49,18 +49,18 @@
         "roi": -1.0
       },
       "比分3串1": {
-        "n": 34,
+        "n": 35,
         "won": 0,
         "roi": -1.0
       },
       "比分3串4(容错)": {
-        "n": 34,
+        "n": 35,
         "won": 0,
         "roi": -1.0
       }
     },
-    "leg_hit_rate": 0.0982,
-    "n_legs_settled": 438
+    "leg_hit_rate": 0.0964,
+    "n_legs_settled": 446
   },
   "tickets": {
     "parlay": [
@@ -4545,6 +4545,206 @@
             "score": null,
             "odds": 2.3,
             "hit": false
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "2串1",
+        "stake": 6.5,
+        "potential": 47.22,
+        "total_odds": 7.26,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日027",
+            "home": "米内罗竞技",
+            "away": "桑托斯",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.2,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日002",
+            "home": "磐城FC",
+            "away": "秋田闪电",
+            "sel": "home",
+            "score": null,
+            "odds": 2.27,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "2串1",
+        "stake": 6.28,
+        "potential": 44.21,
+        "total_odds": 7.04,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日027",
+            "home": "米内罗竞技",
+            "away": "桑托斯",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.2,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日010",
+            "home": "腓特烈斯塔",
+            "away": "特罗姆瑟",
+            "sel": "away",
+            "score": null,
+            "odds": 2.2,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "2串1",
+        "stake": 2.76,
+        "potential": 13.78,
+        "total_odds": 4.99,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日010",
+            "home": "腓特烈斯塔",
+            "away": "特罗姆瑟",
+            "sel": "away",
+            "score": null,
+            "odds": 2.2,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日002",
+            "home": "磐城FC",
+            "away": "秋田闪电",
+            "sel": "home",
+            "score": null,
+            "odds": 2.27,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "3串1",
+        "stake": 3.25,
+        "potential": 51.94,
+        "total_odds": 15.98,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日027",
+            "home": "米内罗竞技",
+            "away": "桑托斯",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.2,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日010",
+            "home": "腓特烈斯塔",
+            "away": "特罗姆瑟",
+            "sel": "away",
+            "score": null,
+            "odds": 2.2,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日002",
+            "home": "磐城FC",
+            "away": "秋田闪电",
+            "sel": "home",
+            "score": null,
+            "odds": 2.27,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "3串4",
+        "stake": 4.43,
+        "potential": 39.07,
+        "total_odds": 8.82,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日027",
+            "home": "米内罗竞技",
+            "away": "桑托斯",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.2,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日010",
+            "home": "腓特烈斯塔",
+            "away": "特罗姆瑟",
+            "sel": "away",
+            "score": null,
+            "odds": 2.2,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日002",
+            "home": "磐城FC",
+            "away": "秋田闪电",
+            "sel": "home",
+            "score": null,
+            "odds": 2.27,
+            "hit": null
           }
         ]
       }
@@ -11937,7 +12137,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -11949,7 +12149,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 13.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-10_周六025",
@@ -11973,7 +12173,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -11985,7 +12185,7 @@
             "sel": null,
             "score": "1-1",
             "odds": 11.5,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-10_周六025",
@@ -12005,13 +12205,13 @@
         "potential": 3174.0,
         "total_odds": 1587.0,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "三场比分全中才赢（赔率 1587 倍，校准命中 0.09%）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
-          null,
-          null,
-          null
+          false,
+          false,
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -12022,7 +12222,7 @@
             "sel": null,
             "score": "1-1",
             "odds": 11.5,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-10_周六020",
@@ -12031,7 +12231,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 11.5,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-10_周六022",
@@ -12040,7 +12240,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 12.0,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -12050,6 +12250,160 @@
         "stake": 8.0,
         "potential": 3990.5,
         "total_odds": 1587.0,
+        "odds_source": "official",
+        "note": "0/4注中（命中0场）",
+        "won": false,
+        "pending": false,
+        "leg_results": [
+          false,
+          false,
+          false
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-10_周六021",
+            "home": "莱红牛",
+            "away": "法兰克福",
+            "sel": null,
+            "score": "1-1",
+            "odds": 11.5,
+            "hit": false
+          },
+          {
+            "match": "2026-10-10_周六020",
+            "home": "曼联",
+            "away": "热刺",
+            "sel": null,
+            "score": "1-0",
+            "odds": 11.5,
+            "hit": false
+          },
+          {
+            "match": "2026-10-10_周六022",
+            "home": "巴萨",
+            "away": "赫塔费",
+            "sel": null,
+            "score": "1-0",
+            "odds": 12.0,
+            "hit": false
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "比分2串1",
+        "stake": 2.0,
+        "potential": 325.0,
+        "total_odds": 162.5,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日016",
+            "home": "科隆",
+            "away": "门兴",
+            "sel": null,
+            "score": "1-0",
+            "odds": 13.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日028",
+            "home": "圣路易斯城",
+            "away": "洛城银河",
+            "sel": null,
+            "score": "1-0",
+            "odds": 12.5,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "比分2串1",
+        "stake": 2.0,
+        "potential": 312.0,
+        "total_odds": 156.0,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日009",
+            "home": "兹沃勒",
+            "away": "坎布尔",
+            "sel": null,
+            "score": "1-0",
+            "odds": 12.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日016",
+            "home": "科隆",
+            "away": "门兴",
+            "sel": null,
+            "score": "1-0",
+            "odds": 13.0,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "比分2串1",
+        "stake": 2.0,
+        "potential": 442.0,
+        "total_odds": 221.0,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日016",
+            "home": "科隆",
+            "away": "门兴",
+            "sel": null,
+            "score": "1-0",
+            "odds": 13.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日006",
+            "home": "南安普敦",
+            "away": "朴茨茅斯",
+            "sel": null,
+            "score": "0-1",
+            "odds": 17.0,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "比分3串1",
+        "stake": 2.0,
+        "potential": 3900.0,
+        "total_odds": 1950.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -12062,30 +12416,76 @@
         "return": 0.0,
         "legs": [
           {
-            "match": "2026-10-10_周六021",
-            "home": "莱红牛",
-            "away": "法兰克福",
-            "sel": null,
-            "score": "1-1",
-            "odds": 11.5,
-            "hit": null
-          },
-          {
-            "match": "2026-10-10_周六020",
-            "home": "曼联",
-            "away": "热刺",
-            "sel": null,
-            "score": "1-0",
-            "odds": 11.5,
-            "hit": null
-          },
-          {
-            "match": "2026-10-10_周六022",
-            "home": "巴萨",
-            "away": "赫塔费",
+            "match": "2026-10-11_周日009",
+            "home": "兹沃勒",
+            "away": "坎布尔",
             "sel": null,
             "score": "1-0",
             "odds": 12.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日016",
+            "home": "科隆",
+            "away": "门兴",
+            "sel": null,
+            "score": "1-0",
+            "odds": 13.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日028",
+            "home": "圣路易斯城",
+            "away": "洛城银河",
+            "sel": null,
+            "score": "1-0",
+            "odds": 12.5,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "比分3串4(容错)",
+        "stake": 8.0,
+        "potential": 4837.0,
+        "total_odds": 1950.0,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日009",
+            "home": "兹沃勒",
+            "away": "坎布尔",
+            "sel": null,
+            "score": "1-0",
+            "odds": 12.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日016",
+            "home": "科隆",
+            "away": "门兴",
+            "sel": null,
+            "score": "1-0",
+            "odds": 13.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日028",
+            "home": "圣路易斯城",
+            "away": "洛城银河",
+            "sel": null,
+            "score": "1-0",
+            "odds": 12.5,
             "hit": null
           }
         ]
@@ -26833,19 +27233,30 @@
       "score_parlay": {
         "stats": {
           "n_tickets": 5,
-          "n_pending": 5,
-          "n_settled": 0,
+          "n_pending": 3,
+          "n_settled": 2,
           "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
+          "hit_rate": 0.0,
+          "stake": 10.0,
           "stake_committed": 16.0,
-          "stake_pending": 16.0,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {},
-          "leg_hit_rate": null,
-          "n_legs_settled": 0
+          "stake_pending": 6.0,
+          "return": 0.0,
+          "roi": -1.0,
+          "avg_odds": 1587.0,
+          "by_type": {
+            "比分3串1": {
+              "n": 1,
+              "won": 0,
+              "roi": -1.0
+            },
+            "比分3串4(容错)": {
+              "n": 1,
+              "won": 0,
+              "roi": -1.0
+            }
+          },
+          "leg_hit_rate": 0.0,
+          "n_legs_settled": 8
         },
         "tickets": [
           {
@@ -26895,7 +27306,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -26907,7 +27318,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 13.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-10-10_周六025",
@@ -26931,7 +27342,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -26943,7 +27354,7 @@
                 "sel": null,
                 "score": "1-1",
                 "odds": 11.5,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-10-10_周六025",
@@ -26963,6 +27374,226 @@
             "potential": 3174.0,
             "total_odds": 1587.0,
             "odds_source": "official",
+            "note": "三场比分全中才赢（赔率 1587 倍，校准命中 0.09%）",
+            "won": false,
+            "pending": false,
+            "leg_results": [
+              false,
+              false,
+              false
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-10_周六021",
+                "home": "莱红牛",
+                "away": "法兰克福",
+                "sel": null,
+                "score": "1-1",
+                "odds": 11.5,
+                "hit": false
+              },
+              {
+                "match": "2026-10-10_周六020",
+                "home": "曼联",
+                "away": "热刺",
+                "sel": null,
+                "score": "1-0",
+                "odds": 11.5,
+                "hit": false
+              },
+              {
+                "match": "2026-10-10_周六022",
+                "home": "巴萨",
+                "away": "赫塔费",
+                "sel": null,
+                "score": "1-0",
+                "odds": 12.0,
+                "hit": false
+              }
+            ]
+          },
+          {
+            "date": "2026-10-10",
+            "type": "比分3串4(容错)",
+            "stake": 8.0,
+            "potential": 3990.5,
+            "total_odds": 1587.0,
+            "odds_source": "official",
+            "note": "0/4注中（命中0场）",
+            "won": false,
+            "pending": false,
+            "leg_results": [
+              false,
+              false,
+              false
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-10_周六021",
+                "home": "莱红牛",
+                "away": "法兰克福",
+                "sel": null,
+                "score": "1-1",
+                "odds": 11.5,
+                "hit": false
+              },
+              {
+                "match": "2026-10-10_周六020",
+                "home": "曼联",
+                "away": "热刺",
+                "sel": null,
+                "score": "1-0",
+                "odds": 11.5,
+                "hit": false
+              },
+              {
+                "match": "2026-10-10_周六022",
+                "home": "巴萨",
+                "away": "赫塔费",
+                "sel": null,
+                "score": "1-0",
+                "odds": 12.0,
+                "hit": false
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "2026-10-11": {
+      "parlay": {
+        "stats": {
+          "n_tickets": 5,
+          "n_pending": 5,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 23.22,
+          "stake_pending": 23.22,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {}
+        },
+        "tickets": [
+          {
+            "date": "2026-10-11",
+            "type": "2串1",
+            "stake": 6.5,
+            "potential": 47.22,
+            "total_odds": 7.26,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-11_周日027",
+                "home": "米内罗竞技",
+                "away": "桑托斯",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.2,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日002",
+                "home": "磐城FC",
+                "away": "秋田闪电",
+                "sel": "home",
+                "score": null,
+                "odds": 2.27,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-11",
+            "type": "2串1",
+            "stake": 6.28,
+            "potential": 44.21,
+            "total_odds": 7.04,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-11_周日027",
+                "home": "米内罗竞技",
+                "away": "桑托斯",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.2,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日010",
+                "home": "腓特烈斯塔",
+                "away": "特罗姆瑟",
+                "sel": "away",
+                "score": null,
+                "odds": 2.2,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-11",
+            "type": "2串1",
+            "stake": 2.76,
+            "potential": 13.78,
+            "total_odds": 4.99,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-11_周日010",
+                "home": "腓特烈斯塔",
+                "away": "特罗姆瑟",
+                "sel": "away",
+                "score": null,
+                "odds": 2.2,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日002",
+                "home": "磐城FC",
+                "away": "秋田闪电",
+                "sel": "home",
+                "score": null,
+                "odds": 2.27,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-11",
+            "type": "3串1",
+            "stake": 3.25,
+            "potential": 51.94,
+            "total_odds": 15.98,
+            "odds_source": null,
             "note": "待赛",
             "won": false,
             "pending": true,
@@ -26974,40 +27605,214 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-10-10_周六021",
-                "home": "莱红牛",
-                "away": "法兰克福",
-                "sel": null,
-                "score": "1-1",
-                "odds": 11.5,
+                "match": "2026-10-11_周日027",
+                "home": "米内罗竞技",
+                "away": "桑托斯",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.2,
                 "hit": null
               },
               {
-                "match": "2026-10-10_周六020",
-                "home": "曼联",
-                "away": "热刺",
-                "sel": null,
-                "score": "1-0",
-                "odds": 11.5,
+                "match": "2026-10-11_周日010",
+                "home": "腓特烈斯塔",
+                "away": "特罗姆瑟",
+                "sel": "away",
+                "score": null,
+                "odds": 2.2,
                 "hit": null
               },
               {
-                "match": "2026-10-10_周六022",
-                "home": "巴萨",
-                "away": "赫塔费",
-                "sel": null,
-                "score": "1-0",
-                "odds": 12.0,
+                "match": "2026-10-11_周日002",
+                "home": "磐城FC",
+                "away": "秋田闪电",
+                "sel": "home",
+                "score": null,
+                "odds": 2.27,
                 "hit": null
               }
             ]
           },
           {
-            "date": "2026-10-10",
-            "type": "比分3串4(容错)",
-            "stake": 8.0,
-            "potential": 3990.5,
-            "total_odds": 1587.0,
+            "date": "2026-10-11",
+            "type": "3串4",
+            "stake": 4.43,
+            "potential": 39.07,
+            "total_odds": 8.82,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-11_周日027",
+                "home": "米内罗竞技",
+                "away": "桑托斯",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.2,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日010",
+                "home": "腓特烈斯塔",
+                "away": "特罗姆瑟",
+                "sel": "away",
+                "score": null,
+                "odds": 2.2,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日002",
+                "home": "磐城FC",
+                "away": "秋田闪电",
+                "sel": "home",
+                "score": null,
+                "odds": 2.27,
+                "hit": null
+              }
+            ]
+          }
+        ]
+      },
+      "score_parlay": {
+        "stats": {
+          "n_tickets": 5,
+          "n_pending": 5,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 16.0,
+          "stake_pending": 16.0,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {},
+          "leg_hit_rate": null,
+          "n_legs_settled": 0
+        },
+        "tickets": [
+          {
+            "date": "2026-10-11",
+            "type": "比分2串1",
+            "stake": 2.0,
+            "potential": 325.0,
+            "total_odds": 162.5,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-11_周日016",
+                "home": "科隆",
+                "away": "门兴",
+                "sel": null,
+                "score": "1-0",
+                "odds": 13.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日028",
+                "home": "圣路易斯城",
+                "away": "洛城银河",
+                "sel": null,
+                "score": "1-0",
+                "odds": 12.5,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-11",
+            "type": "比分2串1",
+            "stake": 2.0,
+            "potential": 312.0,
+            "total_odds": 156.0,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-11_周日009",
+                "home": "兹沃勒",
+                "away": "坎布尔",
+                "sel": null,
+                "score": "1-0",
+                "odds": 12.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日016",
+                "home": "科隆",
+                "away": "门兴",
+                "sel": null,
+                "score": "1-0",
+                "odds": 13.0,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-11",
+            "type": "比分2串1",
+            "stake": 2.0,
+            "potential": 442.0,
+            "total_odds": 221.0,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-11_周日016",
+                "home": "科隆",
+                "away": "门兴",
+                "sel": null,
+                "score": "1-0",
+                "odds": 13.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日006",
+                "home": "南安普敦",
+                "away": "朴茨茅斯",
+                "sel": null,
+                "score": "0-1",
+                "odds": 17.0,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-11",
+            "type": "比分3串1",
+            "stake": 2.0,
+            "potential": 3900.0,
+            "total_odds": 1950.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -27020,30 +27825,76 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-10-10_周六021",
-                "home": "莱红牛",
-                "away": "法兰克福",
-                "sel": null,
-                "score": "1-1",
-                "odds": 11.5,
-                "hit": null
-              },
-              {
-                "match": "2026-10-10_周六020",
-                "home": "曼联",
-                "away": "热刺",
-                "sel": null,
-                "score": "1-0",
-                "odds": 11.5,
-                "hit": null
-              },
-              {
-                "match": "2026-10-10_周六022",
-                "home": "巴萨",
-                "away": "赫塔费",
+                "match": "2026-10-11_周日009",
+                "home": "兹沃勒",
+                "away": "坎布尔",
                 "sel": null,
                 "score": "1-0",
                 "odds": 12.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日016",
+                "home": "科隆",
+                "away": "门兴",
+                "sel": null,
+                "score": "1-0",
+                "odds": 13.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日028",
+                "home": "圣路易斯城",
+                "away": "洛城银河",
+                "sel": null,
+                "score": "1-0",
+                "odds": 12.5,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-11",
+            "type": "比分3串4(容错)",
+            "stake": 8.0,
+            "potential": 4837.0,
+            "total_odds": 1950.0,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-11_周日009",
+                "home": "兹沃勒",
+                "away": "坎布尔",
+                "sel": null,
+                "score": "1-0",
+                "odds": 12.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日016",
+                "home": "科隆",
+                "away": "门兴",
+                "sel": null,
+                "score": "1-0",
+                "odds": 13.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日028",
+                "home": "圣路易斯城",
+                "away": "洛城银河",
+                "sel": null,
+                "score": "1-0",
+                "odds": 12.5,
                 "hit": null
               }
             ]
