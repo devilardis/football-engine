@@ -18,10 +18,10 @@
           "sel": "draw",
           "odds": 3.2,
           "prob": 0.502,
-          "cal_prob": 0.507,
+          "cal_prob": 0.51,
           "market_prob": 0.277,
           "source": "fusion",
-          "hit_prob": 0.507
+          "hit_prob": 0.51
         },
         {
           "match": "2026-10-11_周日002",
@@ -31,23 +31,23 @@
           "sel": "home",
           "odds": 2.27,
           "prob": 0.404,
-          "cal_prob": 0.495,
+          "cal_prob": 0.49,
           "market_prob": 0.39,
           "source": "fusion",
-          "hit_prob": 0.495
+          "hit_prob": 0.49
         }
       ],
       "total_odds": 7.26,
       "model_ev": 0.95,
-      "cal_ev": 5.35,
-      "cal_roi": 0.823,
+      "cal_ev": 5.41,
+      "cal_roi": 0.8171,
       "market_ev": -0.43,
       "market_roi": -0.2153,
-      "hit_prob_cal": 0.251,
+      "hit_prob_cal": 0.25,
       "recommended": true,
-      "stake": 6.5,
+      "stake": 6.62,
       "n_bets": 1,
-      "potential": 47.22,
+      "potential": 48.09,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -63,10 +63,10 @@
           "sel": "draw",
           "odds": 3.2,
           "prob": 0.502,
-          "cal_prob": 0.507,
+          "cal_prob": 0.51,
           "market_prob": 0.277,
           "source": "fusion",
-          "hit_prob": 0.507
+          "hit_prob": 0.51
         },
         {
           "match": "2026-10-11_周日010",
@@ -75,24 +75,24 @@
           "league": "挪超",
           "sel": "away",
           "odds": 2.2,
-          "prob": 0.419,
-          "cal_prob": 0.495,
+          "prob": 0.42,
+          "cal_prob": 0.49,
           "market_prob": 0.402,
           "source": "fusion",
-          "hit_prob": 0.495
+          "hit_prob": 0.49
         }
       ],
       "total_odds": 7.04,
       "model_ev": 0.97,
-      "cal_ev": 4.82,
-      "cal_roi": 0.7668,
+      "cal_ev": 4.86,
+      "cal_roi": 0.761,
       "market_ev": -0.43,
       "market_roi": -0.2152,
-      "hit_prob_cal": 0.251,
+      "hit_prob_cal": 0.25,
       "recommended": true,
-      "stake": 6.28,
+      "stake": 6.39,
       "n_bets": 1,
-      "potential": 44.21,
+      "potential": 44.99,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -107,11 +107,11 @@
           "league": "挪超",
           "sel": "away",
           "odds": 2.2,
-          "prob": 0.419,
-          "cal_prob": 0.495,
+          "prob": 0.42,
+          "cal_prob": 0.49,
           "market_prob": 0.402,
           "source": "fusion",
-          "hit_prob": 0.495
+          "hit_prob": 0.49
         },
         {
           "match": "2026-10-11_周日002",
@@ -121,23 +121,23 @@
           "sel": "home",
           "odds": 2.27,
           "prob": 0.404,
-          "cal_prob": 0.495,
+          "cal_prob": 0.49,
           "market_prob": 0.39,
           "source": "fusion",
-          "hit_prob": 0.495
+          "hit_prob": 0.49
         }
       ],
       "total_odds": 4.99,
       "model_ev": -0.31,
-      "cal_ev": 0.62,
-      "cal_roi": 0.2232,
+      "cal_ev": 0.5,
+      "cal_roi": 0.1991,
       "market_ev": -0.43,
       "market_roi": -0.216,
-      "hit_prob_cal": 0.245,
+      "hit_prob_cal": 0.24,
       "recommended": true,
-      "stake": 2.76,
+      "stake": 2.53,
       "n_bets": 1,
-      "potential": 13.78,
+      "potential": 12.63,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -153,10 +153,10 @@
           "sel": "draw",
           "odds": 3.2,
           "prob": 0.502,
-          "cal_prob": 0.507,
+          "cal_prob": 0.51,
           "market_prob": 0.277,
           "source": "fusion",
-          "hit_prob": 0.507
+          "hit_prob": 0.51
         },
         {
           "match": "2026-10-11_周日010",
@@ -165,11 +165,11 @@
           "league": "挪超",
           "sel": "away",
           "odds": 2.2,
-          "prob": 0.419,
-          "cal_prob": 0.495,
+          "prob": 0.42,
+          "cal_prob": 0.49,
           "market_prob": 0.402,
           "source": "fusion",
-          "hit_prob": 0.495
+          "hit_prob": 0.49
         },
         {
           "match": "2026-10-11_周日002",
@@ -179,19 +179,19 @@
           "sel": "home",
           "odds": 2.27,
           "prob": 0.404,
-          "cal_prob": 0.495,
+          "cal_prob": 0.49,
           "market_prob": 0.39,
           "source": "fusion",
-          "hit_prob": 0.495
+          "hit_prob": 0.49
         }
       ],
       "total_odds": 15.98,
       "model_ev": 0.72,
-      "cal_ev": 3.2,
-      "cal_roi": 0.9848,
+      "cal_ev": 3.12,
+      "cal_roi": 0.9588,
       "market_ev": -0.61,
       "market_roi": -0.3052,
-      "hit_prob_cal": 0.124,
+      "hit_prob_cal": 0.123,
       "recommended": true,
       "stake": 3.25,
       "n_bets": 1,
@@ -211,10 +211,10 @@
           "sel": "draw",
           "odds": 3.2,
           "prob": 0.502,
-          "cal_prob": 0.507,
+          "cal_prob": 0.51,
           "market_prob": 0.277,
           "source": "fusion",
-          "hit_prob": 0.507
+          "hit_prob": 0.51
         },
         {
           "match": "2026-10-11_周日010",
@@ -223,11 +223,11 @@
           "league": "挪超",
           "sel": "away",
           "odds": 2.2,
-          "prob": 0.419,
-          "cal_prob": 0.495,
+          "prob": 0.42,
+          "cal_prob": 0.49,
           "market_prob": 0.402,
           "source": "fusion",
-          "hit_prob": 0.495
+          "hit_prob": 0.49
         },
         {
           "match": "2026-10-11_周日002",
@@ -237,23 +237,23 @@
           "sel": "home",
           "odds": 2.27,
           "prob": 0.404,
-          "cal_prob": 0.495,
+          "cal_prob": 0.49,
           "market_prob": 0.39,
           "source": "fusion",
-          "hit_prob": 0.495
+          "hit_prob": 0.49
         }
       ],
       "total_odds": 8.82,
       "model_ev": null,
-      "cal_ev": 3.1,
-      "cal_roi": 0.6994,
+      "cal_ev": 3.04,
+      "cal_roi": 0.684,
       "market_ev": -1.9,
       "market_roi": -0.2379,
-      "hit_prob_cal": 0.124,
+      "hit_prob_cal": 0.123,
       "recommended": true,
-      "stake": 4.43,
+      "stake": 4.44,
       "n_bets": 4,
-      "potential": 39.07,
+      "potential": 39.16,
       "worst_win": 9.99,
       "note": "容错：错 1 场仍中 1 注 2串1（回 ¥10），全中 ¥71",
       "source": "calibrated"
@@ -269,8 +269,8 @@
           "away": "门兴",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.163,
-          "cal_prob": 0.0953,
+          "prob": 0.165,
+          "cal_prob": 0.0949,
           "odds": 13.0
         },
         {
@@ -279,52 +279,19 @@
           "away": "洛城银河",
           "league": "美职",
           "score": "1-0",
-          "prob": 0.356,
-          "cal_prob": 0.0953,
+          "prob": 0.351,
+          "cal_prob": 0.0949,
           "odds": 12.5
         }
       ],
       "total_odds": 162.5,
-      "hit_prob": 0.0091,
+      "hit_prob": 0.009,
       "stake": 2.0,
       "potential": 325.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.9% × 赔率 162 倍 = EV +48%）"
-    },
-    {
-      "type": "比分2串1",
-      "legs": [
-        {
-          "match": "2026-10-11_周日009",
-          "home": "兹沃勒",
-          "away": "坎布尔",
-          "league": "荷甲",
-          "score": "1-0",
-          "prob": 0.206,
-          "cal_prob": 0.0953,
-          "odds": 12.0
-        },
-        {
-          "match": "2026-10-11_周日016",
-          "home": "科隆",
-          "away": "门兴",
-          "league": "德甲",
-          "score": "1-0",
-          "prob": 0.163,
-          "cal_prob": 0.0953,
-          "odds": 13.0
-        }
-      ],
-      "total_odds": 156.0,
-      "hit_prob": 0.0091,
-      "stake": 2.0,
-      "potential": 312.0,
-      "worst_win": 0.0,
-      "n_bets": 1,
-      "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.9% × 赔率 156 倍 = EV +42%）"
+      "note": "两场比分都中才赢（校准命中 0.9% × 赔率 162 倍 = EV +46%）"
     },
     {
       "type": "比分2串1",
@@ -335,8 +302,8 @@
           "away": "门兴",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.163,
-          "cal_prob": 0.0953,
+          "prob": 0.165,
+          "cal_prob": 0.0949,
           "odds": 13.0
         },
         {
@@ -345,8 +312,8 @@
           "away": "朴茨茅斯",
           "league": "英冠",
           "score": "0-1",
-          "prob": 0.204,
-          "cal_prob": 0.067,
+          "prob": 0.2,
+          "cal_prob": 0.0671,
           "odds": 17.0
         }
       ],
@@ -360,7 +327,7 @@
       "note": "两场比分都中才赢（校准命中 0.6% × 赔率 221 倍 = EV +41%）"
     },
     {
-      "type": "比分3串1",
+      "type": "比分2串1",
       "legs": [
         {
           "match": "2026-10-11_周日009",
@@ -368,8 +335,8 @@
           "away": "坎布尔",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.206,
-          "cal_prob": 0.0953,
+          "prob": 0.203,
+          "cal_prob": 0.0949,
           "odds": 12.0
         },
         {
@@ -378,8 +345,41 @@
           "away": "门兴",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.163,
-          "cal_prob": 0.0953,
+          "prob": 0.165,
+          "cal_prob": 0.0949,
+          "odds": 13.0
+        }
+      ],
+      "total_odds": 156.0,
+      "hit_prob": 0.009,
+      "stake": 2.0,
+      "potential": 312.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.9% × 赔率 156 倍 = EV +41%）"
+    },
+    {
+      "type": "比分3串1",
+      "legs": [
+        {
+          "match": "2026-10-11_周日009",
+          "home": "兹沃勒",
+          "away": "坎布尔",
+          "league": "荷甲",
+          "score": "1-0",
+          "prob": 0.203,
+          "cal_prob": 0.0949,
+          "odds": 12.0
+        },
+        {
+          "match": "2026-10-11_周日016",
+          "home": "科隆",
+          "away": "门兴",
+          "league": "德甲",
+          "score": "1-0",
+          "prob": 0.165,
+          "cal_prob": 0.0949,
           "odds": 13.0
         },
         {
@@ -388,8 +388,8 @@
           "away": "洛城银河",
           "league": "美职",
           "score": "1-0",
-          "prob": 0.356,
-          "cal_prob": 0.0953,
+          "prob": 0.351,
+          "cal_prob": 0.0949,
           "odds": 12.5
         }
       ],
@@ -411,8 +411,8 @@
           "away": "坎布尔",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.206,
-          "cal_prob": 0.0953,
+          "prob": 0.203,
+          "cal_prob": 0.0949,
           "odds": 12.0
         },
         {
@@ -421,8 +421,8 @@
           "away": "门兴",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.163,
-          "cal_prob": 0.0953,
+          "prob": 0.165,
+          "cal_prob": 0.0949,
           "odds": 13.0
         },
         {
@@ -431,8 +431,8 @@
           "away": "洛城银河",
           "league": "美职",
           "score": "1-0",
-          "prob": 0.356,
-          "cal_prob": 0.0953,
+          "prob": 0.351,
+          "cal_prob": 0.0949,
           "odds": 12.5
         }
       ],
@@ -447,17 +447,17 @@
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5372,
-    "n": 955,
+    "overall": 0.5384,
+    "n": 977,
     "table": {
-      "0.35": 0.4234,
-      "0.4": 0.4949,
-      "0.45": 0.4884,
-      "0.5": 0.5071,
-      "0.55": 0.4783,
-      "0.6": 0.6714,
-      "0.65": 0.7458,
-      "0.7": 0.8
+      "0.35": 0.4203,
+      "0.4": 0.49,
+      "0.45": 0.4885,
+      "0.5": 0.5105,
+      "0.55": 0.4792,
+      "0.6": 0.6849,
+      "0.65": 0.746,
+      "0.7": 0.8023
     },
     "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
   }
