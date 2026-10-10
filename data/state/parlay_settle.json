@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:29:55.992716+00:00",
+  "generated_at": "2026-10-10T22:36:45.463127+00:00",
   "parlay": {
     "n_tickets": 119,
     "n_pending": 5,
@@ -12330,42 +12330,6 @@
         "date": "2026-10-11",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 442.0,
-        "total_odds": 221.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-10-11_周日016",
-            "home": "科隆",
-            "away": "门兴",
-            "sel": null,
-            "score": "1-0",
-            "odds": 13.0,
-            "hit": null
-          },
-          {
-            "match": "2026-10-11_周日006",
-            "home": "南安普敦",
-            "away": "朴茨茅斯",
-            "sel": null,
-            "score": "0-1",
-            "odds": 17.0,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-10-11",
-        "type": "比分2串1",
-        "stake": 2.0,
         "potential": 312.0,
         "total_odds": 156.0,
         "odds_source": "official",
@@ -12394,6 +12358,42 @@
             "sel": null,
             "score": "1-0",
             "odds": 13.0,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "type": "比分2串1",
+        "stake": 2.0,
+        "potential": 442.0,
+        "total_odds": 221.0,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-11_周日016",
+            "home": "科隆",
+            "away": "门兴",
+            "sel": null,
+            "score": "1-0",
+            "odds": 13.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-11_周日006",
+            "home": "南安普敦",
+            "away": "朴茨茅斯",
+            "sel": null,
+            "score": "0-1",
+            "odds": 17.0,
             "hit": null
           }
         ]
@@ -27744,42 +27744,6 @@
             "date": "2026-10-11",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 442.0,
-            "total_odds": 221.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-10-11_周日016",
-                "home": "科隆",
-                "away": "门兴",
-                "sel": null,
-                "score": "1-0",
-                "odds": 13.0,
-                "hit": null
-              },
-              {
-                "match": "2026-10-11_周日006",
-                "home": "南安普敦",
-                "away": "朴茨茅斯",
-                "sel": null,
-                "score": "0-1",
-                "odds": 17.0,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-10-11",
-            "type": "比分2串1",
-            "stake": 2.0,
             "potential": 312.0,
             "total_odds": 156.0,
             "odds_source": "official",
@@ -27808,6 +27772,42 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 13.0,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-11",
+            "type": "比分2串1",
+            "stake": 2.0,
+            "potential": 442.0,
+            "total_odds": 221.0,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-11_周日016",
+                "home": "科隆",
+                "away": "门兴",
+                "sel": null,
+                "score": "1-0",
+                "odds": 13.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-11_周日006",
+                "home": "南安普敦",
+                "away": "朴茨茅斯",
+                "sel": null,
+                "score": "0-1",
+                "odds": 17.0,
                 "hit": null
               }
             ]
