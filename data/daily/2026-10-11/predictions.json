@@ -11430,7 +11430,22 @@
     "play_ev": {
       "ttg": 0.1897
     },
-    "kelly_edge": -0.1182
+    "kelly_edge": -0.1182,
+    "pnl": 0.0,
+    "actual_result": "1-1",
+    "actual_home_score": 1,
+    "actual_away_score": 1,
+    "direction_correct": false,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 5,
+    "score_top3_hit": false,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 5,
+    "market_signal_dir": "away",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-10-11_周日025",
@@ -11892,7 +11907,22 @@
       "recommended": false
     },
     "prob_band_5060": true,
-    "kelly_edge": -0.0961
+    "kelly_edge": -0.0961,
+    "pnl": 0.0,
+    "actual_result": "0-2",
+    "actual_home_score": 0,
+    "actual_away_score": 2,
+    "direction_correct": true,
+    "predicted_score": "0-1",
+    "score_correct": false,
+    "score_rank": 3,
+    "score_top3_hit": true,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 3,
+    "market_signal_dir": "home",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-10-11_周日026",
@@ -12351,7 +12381,22 @@
     "play_ev": {
       "ttg": 0.1046
     },
-    "kelly_edge": -0.0701
+    "kelly_edge": -0.0701,
+    "pnl": 0.0,
+    "actual_result": "2-2",
+    "actual_home_score": 2,
+    "actual_away_score": 2,
+    "direction_correct": false,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 0,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": false,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 0,
+    "market_signal_dir": "away",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-10-11_周日027",
@@ -12839,7 +12884,22 @@
       "recommended": false
     },
     "prob_band_5060": true,
-    "kelly_edge": 0.5678
+    "kelly_edge": 0.5678,
+    "pnl": 0.0,
+    "actual_result": "2-1",
+    "actual_home_score": 2,
+    "actual_away_score": 1,
+    "direction_correct": false,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 8,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 8,
+    "market_signal_dir": "away",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-10-11_周日028",

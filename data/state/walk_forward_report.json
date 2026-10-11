@@ -1,60 +1,60 @@
 {
-  "total_matches": 1007,
+  "total_matches": 1011,
   "date_range": [
     "2026-07-19",
     "2026-10-11"
   ],
   "metrics": {
-    "brier": 0.5811,
-    "weighted_brier": 0.5777,
-    "rps": 0.1985,
-    "weighted_rps": 0.1973,
-    "log_loss": 0.9768,
-    "hit_rate": 0.5432,
-    "ece": 0.0917
+    "brier": 0.5817,
+    "weighted_brier": 0.5785,
+    "rps": 0.1984,
+    "weighted_rps": 0.1972,
+    "log_loss": 0.9775,
+    "hit_rate": 0.542,
+    "ece": 0.0928
   },
   "draw_analysis": {
-    "actual_draws": 247,
-    "actual_draw_rate": 0.2453,
-    "predicted_draws": 36,
-    "predicted_draw_rate": 0.0357,
+    "actual_draws": 249,
+    "actual_draw_rate": 0.2463,
+    "predicted_draws": 37,
+    "predicted_draw_rate": 0.0366,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.2576,
+    "avg_draw_prob": 0.2578,
     "avg_market_draw": 0.2419,
-    "market_high_draw_n": 193,
+    "market_high_draw_n": 194,
     "market_high_draw_actual": 65,
-    "market_high_draw_rate": 0.3368
+    "market_high_draw_rate": 0.3351
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5402,
-      "n": 1007
+      "hit_rate": 0.5391,
+      "n": 1011
     },
     "market": {
-      "hit_rate": 0.5553,
-      "n": 895
+      "hit_rate": 0.5551,
+      "n": 899
     },
     "hybrid_v2": {
-      "hit_rate": 0.4994,
-      "n": 895
+      "hit_rate": 0.4983,
+      "n": 899
     },
     "market_d28": {
-      "hit_rate": 0.514,
-      "n": 895
+      "hit_rate": 0.5128,
+      "n": 899
     }
   },
   "by_league": {
     "西甲": {
-      "n": 76,
-      "hit_rate": 0.5658,
-      "brier": 0.5548,
-      "rps": 0.1892
+      "n": 77,
+      "hit_rate": 0.5584,
+      "brier": 0.5584,
+      "rps": 0.1886
     },
     "意甲": {
-      "n": 57,
-      "hit_rate": 0.5614,
-      "brier": 0.5482,
-      "rps": 0.1975
+      "n": 58,
+      "hit_rate": 0.5517,
+      "brier": 0.5568,
+      "rps": 0.1978
     },
     "英超": {
       "n": 53,
@@ -117,10 +117,10 @@
       "rps": 0.2408
     },
     "巴甲": {
-      "n": 39,
-      "hit_rate": 0.2821,
-      "brier": 0.6509,
-      "rps": 0.1847
+      "n": 40,
+      "hit_rate": 0.275,
+      "brier": 0.6532,
+      "rps": 0.1862
     },
     "日职": {
       "n": 35,
@@ -141,10 +141,10 @@
       "rps": 0.1852
     },
     "法甲": {
-      "n": 33,
-      "hit_rate": 0.6061,
-      "brier": 0.5879,
-      "rps": 0.2175
+      "n": 34,
+      "hit_rate": 0.6176,
+      "brier": 0.5806,
+      "rps": 0.2153
     },
     "沙职": {
       "n": 27,
