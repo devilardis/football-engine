@@ -7,7 +7,7 @@
     "draw_baseline": 0.12,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 27,
+    "total_predictions": 28,
     "total_hits": 17,
     "avg_overround": 0.0,
     "last_updated": "2026-10-11"
@@ -54,7 +54,7 @@
   "芬超": {
     "base_goals": 1.35,
     "home_adv_weight": 1.0,
-    "market_blend_weight": 0.33,
+    "market_blend_weight": 0.38,
     "xg_calibration": 0.68,
     "draw_baseline": 0.14,
     "draw_predictions": 3,
@@ -202,10 +202,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 4,
     "draw_hits": 0,
-    "total_predictions": 42,
-    "total_hits": 24,
+    "total_predictions": 43,
+    "total_hits": 25,
     "avg_overround": 0.0,
-    "last_updated": "2026-10-10"
+    "last_updated": "2026-10-11"
   },
   "日乙": {
     "base_goals": 1.35,

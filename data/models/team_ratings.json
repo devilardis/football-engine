@@ -1056,10 +1056,10 @@
     "rest_days": 3
   },
   "莫尔德": {
-    "elo": 1737.4,
-    "attack": 1.2008,
-    "defense": 0.735,
-    "form": 0.6676,
+    "elo": 1729.5,
+    "attack": 1.1541,
+    "defense": 0.7337,
+    "form": 0.4673,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1104,10 +1104,10 @@
     "rest_days": 3
   },
   "本菲卡": {
-    "elo": 1896.6,
-    "attack": 1.0988,
-    "defense": 0.3444,
-    "form": 0.3772,
+    "elo": 1899.2,
+    "attack": 1.062,
+    "defense": 0.3108,
+    "form": 0.564,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1648,10 +1648,10 @@
     "rest_days": 3
   },
   "吉马良斯": {
-    "elo": 1432.4,
-    "attack": 0.6169,
-    "defense": 0.8311,
-    "form": -0.4968,
+    "elo": 1429.8,
+    "attack": 0.5568,
+    "defense": 0.8204,
+    "form": -0.6478,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10776,10 +10776,10 @@
     "rest_days": 3
   },
   "利勒斯特罗姆": {
-    "elo": 1484.7,
-    "attack": 0.9025,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1492.6,
+    "attack": 0.8849,
+    "defense": 0.9802,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },

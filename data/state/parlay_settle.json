@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:52:57.415419+00:00",
+  "generated_at": "2026-10-11T19:35:46.798038+00:00",
   "parlay": {
     "n_tickets": 120,
     "n_pending": 6,
@@ -7,8 +7,8 @@
     "n_won": 31,
     "hit_rate": 0.2719,
     "stake": 623.19,
-    "stake_committed": 660.34,
-    "stake_pending": 37.15,
+    "stake_committed": 660.35,
+    "stake_pending": 37.16,
     "return": 745.51,
     "roi": 0.1963,
     "avg_odds": 6.86,
@@ -4560,7 +4560,7 @@
         "pending": true,
         "leg_results": [
           null,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -4580,15 +4580,15 @@
             "sel": "away",
             "score": null,
             "odds": 2.22,
-            "hit": null
+            "hit": false
           }
         ]
       },
       {
         "date": "2026-10-12",
         "type": "2串1",
-        "stake": 6.8,
-        "potential": 46.38,
+        "stake": 6.77,
+        "potential": 46.17,
         "total_odds": 6.82,
         "odds_source": null,
         "note": "待赛",
@@ -4623,8 +4623,8 @@
       {
         "date": "2026-10-12",
         "type": "2串1",
-        "stake": 6.6,
-        "potential": 43.99,
+        "stake": 6.56,
+        "potential": 43.72,
         "total_odds": 6.67,
         "odds_source": null,
         "note": "待赛",
@@ -4659,8 +4659,8 @@
       {
         "date": "2026-10-12",
         "type": "2串1",
-        "stake": 2.07,
-        "potential": 9.79,
+        "stake": 2.15,
+        "potential": 10.17,
         "total_odds": 4.73,
         "odds_source": null,
         "note": "待赛",
@@ -27332,7 +27332,7 @@
             "pending": true,
             "leg_results": [
               null,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -27352,7 +27352,7 @@
                 "sel": "away",
                 "score": null,
                 "odds": 2.22,
-                "hit": null
+                "hit": false
               }
             ]
           }
@@ -27372,8 +27372,8 @@
           "n_won": 0,
           "hit_rate": null,
           "stake": 0,
-          "stake_committed": 23.22,
-          "stake_pending": 23.22,
+          "stake_committed": 23.23,
+          "stake_pending": 23.23,
           "return": 0,
           "roi": null,
           "avg_odds": null,
@@ -27383,8 +27383,8 @@
           {
             "date": "2026-10-12",
             "type": "2串1",
-            "stake": 6.8,
-            "potential": 46.38,
+            "stake": 6.77,
+            "potential": 46.17,
             "total_odds": 6.82,
             "odds_source": null,
             "note": "待赛",
@@ -27419,8 +27419,8 @@
           {
             "date": "2026-10-12",
             "type": "2串1",
-            "stake": 6.6,
-            "potential": 43.99,
+            "stake": 6.56,
+            "potential": 43.72,
             "total_odds": 6.67,
             "odds_source": null,
             "note": "待赛",
@@ -27455,8 +27455,8 @@
           {
             "date": "2026-10-12",
             "type": "2串1",
-            "stake": 2.07,
-            "potential": 9.79,
+            "stake": 2.15,
+            "potential": 10.17,
             "total_odds": 4.73,
             "odds_source": null,
             "note": "待赛",
