@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:06:41.965965+00:00",
+  "generated_at": "2026-10-12T19:50:08.937932+00:00",
   "parlay": {
     "n_tickets": 120,
     "n_pending": 5,
@@ -4632,7 +4632,7 @@
         "pending": true,
         "leg_results": [
           null,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -4652,7 +4652,7 @@
             "sel": "away",
             "score": null,
             "odds": 2.16,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -4667,7 +4667,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -4679,7 +4679,7 @@
             "sel": "away",
             "score": null,
             "odds": 2.16,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-12_周一006",
@@ -4704,7 +4704,7 @@
         "pending": true,
         "leg_results": [
           null,
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -4725,7 +4725,7 @@
             "sel": "away",
             "score": null,
             "odds": 2.16,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-12_周一006",
@@ -4750,7 +4750,7 @@
         "pending": true,
         "leg_results": [
           null,
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -4771,7 +4771,7 @@
             "sel": "away",
             "score": null,
             "odds": 2.16,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-12_周一006",
@@ -27634,7 +27634,7 @@
             "pending": true,
             "leg_results": [
               null,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -27654,7 +27654,7 @@
                 "sel": "away",
                 "score": null,
                 "odds": 2.16,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -27669,7 +27669,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -27681,7 +27681,7 @@
                 "sel": "away",
                 "score": null,
                 "odds": 2.16,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-10-12_周一006",
@@ -27706,7 +27706,7 @@
             "pending": true,
             "leg_results": [
               null,
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -27727,7 +27727,7 @@
                 "sel": "away",
                 "score": null,
                 "odds": 2.16,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-10-12_周一006",
@@ -27752,7 +27752,7 @@
             "pending": true,
             "leg_results": [
               null,
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -27773,7 +27773,7 @@
                 "sel": "away",
                 "score": null,
                 "odds": 2.16,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-10-12_周一006",
