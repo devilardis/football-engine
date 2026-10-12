@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-12T02:28:51.853747+00:00",
+  "generated_at": "2026-10-12T08:23:22.139561+00:00",
   "parlay": {
-    "n_tickets": 116,
-    "n_pending": 1,
+    "n_tickets": 120,
+    "n_pending": 5,
     "n_settled": 115,
     "n_won": 31,
     "hit_rate": 0.2696,
     "stake": 637.12,
-    "stake_committed": 651.05,
-    "stake_pending": 13.93,
+    "stake_committed": 660.35,
+    "stake_pending": 23.23,
     "return": 745.51,
     "roi": 0.1701,
     "avg_odds": 6.86,
@@ -4587,9 +4587,9 @@
       {
         "date": "2026-10-12",
         "type": "2串1",
-        "stake": 13.93,
-        "potential": 95.0,
-        "total_odds": 6.82,
+        "stake": 6.76,
+        "potential": 45.38,
+        "total_odds": 6.71,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4606,7 +4606,7 @@
             "away": "博塔弗戈",
             "sel": "draw",
             "score": null,
-            "odds": 3.1,
+            "odds": 3.01,
             "hit": null
           },
           {
@@ -4615,7 +4615,171 @@
             "away": "梅斯",
             "sel": "away",
             "score": null,
-            "odds": 2.2,
+            "odds": 2.23,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "type": "2串1",
+        "stake": 6.45,
+        "potential": 41.94,
+        "total_odds": 6.5,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-12_周一009",
+            "home": "科里蒂巴",
+            "away": "博塔弗戈",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.01,
+            "hit": null
+          },
+          {
+            "match": "2026-10-12_周一004",
+            "home": "奥斯KFUM",
+            "away": "瓦勒伦加",
+            "sel": "away",
+            "score": null,
+            "odds": 2.16,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "type": "2串1",
+        "stake": 2.32,
+        "potential": 11.17,
+        "total_odds": 4.82,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-12_周一004",
+            "home": "奥斯KFUM",
+            "away": "瓦勒伦加",
+            "sel": "away",
+            "score": null,
+            "odds": 2.16,
+            "hit": null
+          },
+          {
+            "match": "2026-10-12_周一006",
+            "home": "第戎",
+            "away": "梅斯",
+            "sel": "away",
+            "score": null,
+            "odds": 2.23,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "type": "3串1",
+        "stake": 3.25,
+        "potential": 47.12,
+        "total_odds": 14.5,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-12_周一009",
+            "home": "科里蒂巴",
+            "away": "博塔弗戈",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.01,
+            "hit": null
+          },
+          {
+            "match": "2026-10-12_周一004",
+            "home": "奥斯KFUM",
+            "away": "瓦勒伦加",
+            "sel": "away",
+            "score": null,
+            "odds": 2.16,
+            "hit": null
+          },
+          {
+            "match": "2026-10-12_周一006",
+            "home": "第戎",
+            "away": "梅斯",
+            "sel": "away",
+            "score": null,
+            "odds": 2.23,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "type": "3串4",
+        "stake": 4.45,
+        "potential": 36.19,
+        "total_odds": 8.13,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-12_周一009",
+            "home": "科里蒂巴",
+            "away": "博塔弗戈",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.01,
+            "hit": null
+          },
+          {
+            "match": "2026-10-12_周一004",
+            "home": "奥斯KFUM",
+            "away": "瓦勒伦加",
+            "sel": "away",
+            "score": null,
+            "odds": 2.16,
+            "hit": null
+          },
+          {
+            "match": "2026-10-12_周一006",
+            "home": "第戎",
+            "away": "梅斯",
+            "sel": "away",
+            "score": null,
+            "odds": 2.23,
             "hit": null
           }
         ]
@@ -27208,14 +27372,14 @@
     "2026-10-12": {
       "parlay": {
         "stats": {
-          "n_tickets": 1,
-          "n_pending": 1,
+          "n_tickets": 5,
+          "n_pending": 5,
           "n_settled": 0,
           "n_won": 0,
           "hit_rate": null,
           "stake": 0,
-          "stake_committed": 13.93,
-          "stake_pending": 13.93,
+          "stake_committed": 23.23,
+          "stake_pending": 23.23,
           "return": 0,
           "roi": null,
           "avg_odds": null,
@@ -27225,9 +27389,9 @@
           {
             "date": "2026-10-12",
             "type": "2串1",
-            "stake": 13.93,
-            "potential": 95.0,
-            "total_odds": 6.82,
+            "stake": 6.76,
+            "potential": 45.38,
+            "total_odds": 6.71,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -27244,7 +27408,7 @@
                 "away": "博塔弗戈",
                 "sel": "draw",
                 "score": null,
-                "odds": 3.1,
+                "odds": 3.01,
                 "hit": null
               },
               {
@@ -27253,7 +27417,171 @@
                 "away": "梅斯",
                 "sel": "away",
                 "score": null,
-                "odds": 2.2,
+                "odds": 2.23,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-12",
+            "type": "2串1",
+            "stake": 6.45,
+            "potential": 41.94,
+            "total_odds": 6.5,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-12_周一009",
+                "home": "科里蒂巴",
+                "away": "博塔弗戈",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.01,
+                "hit": null
+              },
+              {
+                "match": "2026-10-12_周一004",
+                "home": "奥斯KFUM",
+                "away": "瓦勒伦加",
+                "sel": "away",
+                "score": null,
+                "odds": 2.16,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-12",
+            "type": "2串1",
+            "stake": 2.32,
+            "potential": 11.17,
+            "total_odds": 4.82,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-12_周一004",
+                "home": "奥斯KFUM",
+                "away": "瓦勒伦加",
+                "sel": "away",
+                "score": null,
+                "odds": 2.16,
+                "hit": null
+              },
+              {
+                "match": "2026-10-12_周一006",
+                "home": "第戎",
+                "away": "梅斯",
+                "sel": "away",
+                "score": null,
+                "odds": 2.23,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-12",
+            "type": "3串1",
+            "stake": 3.25,
+            "potential": 47.12,
+            "total_odds": 14.5,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-12_周一009",
+                "home": "科里蒂巴",
+                "away": "博塔弗戈",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.01,
+                "hit": null
+              },
+              {
+                "match": "2026-10-12_周一004",
+                "home": "奥斯KFUM",
+                "away": "瓦勒伦加",
+                "sel": "away",
+                "score": null,
+                "odds": 2.16,
+                "hit": null
+              },
+              {
+                "match": "2026-10-12_周一006",
+                "home": "第戎",
+                "away": "梅斯",
+                "sel": "away",
+                "score": null,
+                "odds": 2.23,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-12",
+            "type": "3串4",
+            "stake": 4.45,
+            "potential": 36.19,
+            "total_odds": 8.13,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-12_周一009",
+                "home": "科里蒂巴",
+                "away": "博塔弗戈",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.01,
+                "hit": null
+              },
+              {
+                "match": "2026-10-12_周一004",
+                "home": "奥斯KFUM",
+                "away": "瓦勒伦加",
+                "sel": "away",
+                "score": null,
+                "odds": 2.16,
+                "hit": null
+              },
+              {
+                "match": "2026-10-12_周一006",
+                "home": "第戎",
+                "away": "梅斯",
+                "sel": "away",
+                "score": null,
+                "odds": 2.23,
                 "hit": null
               }
             ]
