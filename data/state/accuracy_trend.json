@@ -1,14 +1,14 @@
 {
   "generated_at": "2026-10-13",
-  "total_matches": 1025,
+  "total_matches": 1026,
   "date_range": [
     "2026-07-19",
     "2026-10-13"
   ],
   "overall": {
-    "hit_rate": 0.5385,
+    "hit_rate": 0.539,
     "brier_final": 0.5814,
-    "brier_model": 0.6147,
+    "brier_model": 0.6148,
     "brier_market": 0.5702,
     "brier_djyy": 0.646
   },
@@ -999,21 +999,21 @@
     },
     {
       "date": "2026-10-13",
-      "n": 3,
-      "hits": 1,
-      "hit_rate": 0.3333,
-      "cum_hit_rate": 0.5385,
-      "brier_final": 0.6478,
-      "brier_model": 0.6497,
-      "brier_market": 0.6495,
+      "n": 4,
+      "hits": 2,
+      "hit_rate": 0.5,
+      "cum_hit_rate": 0.539,
+      "brier_final": 0.6247,
+      "brier_model": 0.6859,
+      "brier_market": 0.6313,
       "brier_djyy": null,
       "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 94,
-    "hit_rate": 0.5426,
-    "brier_final": 0.5869,
+    "n": 95,
+    "hit_rate": 0.5474,
+    "brier_final": 0.5836,
     "pnl": 0.0
   },
   "prev7": {
@@ -1043,16 +1043,16 @@
       "brier_final": 0.6505
     },
     {
+      "layer": "欧冠",
+      "n": 52,
+      "hit_rate": 0.6154,
+      "brier_final": 0.5437
+    },
+    {
       "layer": "欧国联",
       "n": 52,
       "hit_rate": 0.6154,
       "brier_final": 0.4973
-    },
-    {
-      "layer": "欧冠",
-      "n": 51,
-      "hit_rate": 0.6078,
-      "brier_final": 0.5435
     },
     {
       "layer": "K1联赛",
@@ -1292,9 +1292,9 @@
     },
     {
       "layer": "2.0-3.0",
-      "n": 308,
-      "hit_rate": 0.4188,
-      "brier_final": 0.6616
+      "n": 309,
+      "hit_rate": 0.4207,
+      "brier_final": 0.6613
     },
     {
       "layer": "1.0-1.5",
@@ -1324,9 +1324,9 @@
     },
     {
       "layer": "low",
-      "n": 142,
-      "hit_rate": 0.4225,
-      "brier_final": 0.662
+      "n": 143,
+      "hit_rate": 0.4266,
+      "brier_final": 0.6613
     }
   ]
 }
