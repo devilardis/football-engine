@@ -17,7 +17,7 @@
           "away": "拜仁",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.263,
+          "prob": 0.267,
           "cal_prob": 0.096,
           "odds": 80.0
         },
@@ -27,19 +27,52 @@
           "away": "埃因霍温",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.215,
+          "prob": 0.212,
           "cal_prob": 0.0656,
-          "odds": 23.0
+          "odds": 26.0
         }
       ],
-      "total_odds": 1840.0,
+      "total_odds": 2080.0,
       "hit_prob": 0.0063,
       "stake": 2.0,
-      "potential": 3680.0,
+      "potential": 4160.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.6% × 赔率 1840 倍 = EV +1059%）"
+      "note": "两场比分都中才赢（校准命中 0.6% × 赔率 2080 倍 = EV +1210%）"
+    },
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-10-13_周二008",
+          "home": "维京",
+          "away": "拜仁",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.267,
+          "cal_prob": 0.096,
+          "odds": 80.0
+        },
+        {
+          "match": "2026-10-13_周二012",
+          "home": "斯托克城",
+          "away": "米堡",
+          "league": "英冠",
+          "score": "1-0",
+          "prob": 0.239,
+          "cal_prob": 0.096,
+          "odds": 14.0
+        }
+      ],
+      "total_odds": 1120.0,
+      "hit_prob": 0.0092,
+      "stake": 2.0,
+      "potential": 2240.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.9% × 赔率 1120 倍 = EV +932%）"
     },
     {
       "type": "比分2串1",
@@ -50,7 +83,7 @@
           "away": "里斯本",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.217,
+          "prob": 0.215,
           "cal_prob": 0.096,
           "odds": 11.5
         },
@@ -60,7 +93,7 @@
           "away": "拜仁",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.263,
+          "prob": 0.267,
           "cal_prob": 0.096,
           "odds": 80.0
         }
@@ -75,39 +108,6 @@
       "note": "两场比分都中才赢（校准命中 0.9% × 赔率 920 倍 = EV +747%）"
     },
     {
-      "type": "比分2串1",
-      "legs": [
-        {
-          "match": "2026-10-13_周二008",
-          "home": "维京",
-          "away": "拜仁",
-          "league": "欧冠",
-          "score": "1-0",
-          "prob": 0.263,
-          "cal_prob": 0.096,
-          "odds": 80.0
-        },
-        {
-          "match": "2026-10-13_周二011",
-          "home": "马竞",
-          "away": "曼联",
-          "league": "欧冠",
-          "score": "1-0",
-          "prob": 0.266,
-          "cal_prob": 0.096,
-          "odds": 11.0
-        }
-      ],
-      "total_odds": 880.0,
-      "hit_prob": 0.0092,
-      "stake": 2.0,
-      "potential": 1760.0,
-      "worst_win": 0.0,
-      "n_bets": 1,
-      "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.9% × 赔率 880 倍 = EV +711%）"
-    },
-    {
       "type": "比分3串1",
       "legs": [
         {
@@ -116,7 +116,7 @@
           "away": "里斯本",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.217,
+          "prob": 0.215,
           "cal_prob": 0.096,
           "odds": 11.5
         },
@@ -126,7 +126,7 @@
           "away": "拜仁",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.263,
+          "prob": 0.267,
           "cal_prob": 0.096,
           "odds": 80.0
         },
@@ -136,7 +136,7 @@
           "away": "曼联",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.266,
+          "prob": 0.262,
           "cal_prob": 0.096,
           "odds": 11.0
         }
@@ -159,7 +159,7 @@
           "away": "里斯本",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.217,
+          "prob": 0.215,
           "cal_prob": 0.096,
           "odds": 11.5
         },
@@ -169,7 +169,7 @@
           "away": "拜仁",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.263,
+          "prob": 0.267,
           "cal_prob": 0.096,
           "odds": 80.0
         },
@@ -179,7 +179,7 @@
           "away": "曼联",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.266,
+          "prob": 0.262,
           "cal_prob": 0.096,
           "odds": 11.0
         }
