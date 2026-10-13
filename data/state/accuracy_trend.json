@@ -1,15 +1,15 @@
 {
   "generated_at": "2026-10-13",
-  "total_matches": 1022,
+  "total_matches": 1025,
   "date_range": [
     "2026-07-19",
-    "2026-10-12"
+    "2026-10-13"
   ],
   "overall": {
-    "hit_rate": 0.5391,
-    "brier_final": 0.5812,
-    "brier_model": 0.6145,
-    "brier_market": 0.57,
+    "hit_rate": 0.5385,
+    "brier_final": 0.5814,
+    "brier_model": 0.6147,
+    "brier_market": 0.5702,
     "brier_djyy": 0.646
   },
   "daily": [
@@ -996,21 +996,33 @@
       "brier_market": 0.6038,
       "brier_djyy": null,
       "pnl": 0.0
+    },
+    {
+      "date": "2026-10-13",
+      "n": 3,
+      "hits": 1,
+      "hit_rate": 0.3333,
+      "cum_hit_rate": 0.5385,
+      "brier_final": 0.6478,
+      "brier_model": 0.6497,
+      "brier_market": 0.6495,
+      "brier_djyy": null,
+      "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 103,
-    "hit_rate": 0.5437,
-    "brier_final": 0.5683,
+    "n": 94,
+    "hit_rate": 0.5426,
+    "brier_final": 0.5869,
     "pnl": 0.0
   },
   "prev7": {
-    "n": 78,
-    "hit_rate": 0.6795,
-    "brier_final": 0.4968,
+    "n": 77,
+    "hit_rate": 0.6753,
+    "brier_final": 0.4868,
     "pnl": 0.0
   },
-  "verdict": "命中率下降 -14pt",
+  "verdict": "命中率下降 -13pt",
   "by_league": [
     {
       "layer": "西甲",
@@ -1181,6 +1193,12 @@
       "brier_final": 0.6251
     },
     {
+      "layer": "亚冠精英",
+      "n": 12,
+      "hit_rate": 0.4167,
+      "brier_final": 0.665
+    },
+    {
       "layer": "美职联",
       "n": 11,
       "hit_rate": 0.4545,
@@ -1191,12 +1209,6 @@
       "n": 9,
       "hit_rate": 0.5556,
       "brier_final": 0.59
-    },
-    {
-      "layer": "亚冠精英",
-      "n": 9,
-      "hit_rate": 0.4444,
-      "brier_final": 0.6707
     },
     {
       "layer": "亚运女足",
@@ -1274,9 +1286,9 @@
   "by_odds_band": [
     {
       "layer": "1.5-2.0",
-      "n": 363,
-      "hit_rate": 0.5069,
-      "brier_final": 0.6235
+      "n": 366,
+      "hit_rate": 0.5055,
+      "brier_final": 0.6237
     },
     {
       "layer": "2.0-3.0",
@@ -1300,15 +1312,15 @@
   "by_conf_tier": [
     {
       "layer": "mid",
-      "n": 544,
-      "hit_rate": 0.4871,
-      "brier_final": 0.6227
+      "n": 546,
+      "hit_rate": 0.4853,
+      "brier_final": 0.6235
     },
     {
       "layer": "high",
-      "n": 336,
-      "hit_rate": 0.6726,
-      "brier_final": 0.48
+      "n": 337,
+      "hit_rate": 0.6736,
+      "brier_final": 0.4794
     },
     {
       "layer": "low",
