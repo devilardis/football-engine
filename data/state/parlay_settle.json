@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:29:28.503714+00:00",
+  "generated_at": "2026-10-13T15:02:31.946043+00:00",
   "parlay": {
     "n_tickets": 120,
     "n_pending": 0,
@@ -12330,8 +12330,8 @@
         "date": "2026-10-13",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 4800.0,
-        "total_odds": 2400.0,
+        "potential": 5100.0,
+        "total_odds": 2550.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -12348,7 +12348,7 @@
             "away": "拜仁",
             "sel": null,
             "score": "1-0",
-            "odds": 80.0,
+            "odds": 75.0,
             "hit": null
           },
           {
@@ -12357,7 +12357,7 @@
             "away": "埃因霍温",
             "sel": null,
             "score": "0-1",
-            "odds": 30.0,
+            "odds": 34.0,
             "hit": null
           }
         ]
@@ -12366,8 +12366,8 @@
         "date": "2026-10-13",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 2240.0,
-        "total_odds": 1120.0,
+        "potential": 2100.0,
+        "total_odds": 1050.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -12384,7 +12384,7 @@
             "away": "拜仁",
             "sel": null,
             "score": "1-0",
-            "odds": 80.0,
+            "odds": 75.0,
             "hit": null
           },
           {
@@ -12402,8 +12402,8 @@
         "date": "2026-10-13",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 1920.0,
-        "total_odds": 960.0,
+        "potential": 1950.0,
+        "total_odds": 975.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -12420,7 +12420,7 @@
             "away": "里斯本",
             "sel": null,
             "score": "1-0",
-            "odds": 12.0,
+            "odds": 13.0,
             "hit": null
           },
           {
@@ -12429,7 +12429,7 @@
             "away": "拜仁",
             "sel": null,
             "score": "1-0",
-            "odds": 80.0,
+            "odds": 75.0,
             "hit": null
           }
         ]
@@ -12438,8 +12438,8 @@
         "date": "2026-10-13",
         "type": "比分3串1",
         "stake": 2.0,
-        "potential": 21120.0,
-        "total_odds": 10560.0,
+        "potential": 21450.0,
+        "total_odds": 10725.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -12457,7 +12457,7 @@
             "away": "里斯本",
             "sel": null,
             "score": "1-0",
-            "odds": 12.0,
+            "odds": 13.0,
             "hit": null
           },
           {
@@ -12466,7 +12466,7 @@
             "away": "拜仁",
             "sel": null,
             "score": "1-0",
-            "odds": 80.0,
+            "odds": 75.0,
             "hit": null
           },
           {
@@ -12484,8 +12484,8 @@
         "date": "2026-10-13",
         "type": "比分3串4(容错)",
         "stake": 8.0,
-        "potential": 25064.0,
-        "total_odds": 10560.0,
+        "potential": 25336.0,
+        "total_odds": 10725.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -12503,7 +12503,7 @@
             "away": "里斯本",
             "sel": null,
             "score": "1-0",
-            "odds": 12.0,
+            "odds": 13.0,
             "hit": null
           },
           {
@@ -12512,7 +12512,7 @@
             "away": "拜仁",
             "sel": null,
             "score": "1-0",
-            "odds": 80.0,
+            "odds": 75.0,
             "hit": null
           },
           {
@@ -27836,8 +27836,8 @@
             "date": "2026-10-13",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 4800.0,
-            "total_odds": 2400.0,
+            "potential": 5100.0,
+            "total_odds": 2550.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -27854,7 +27854,7 @@
                 "away": "拜仁",
                 "sel": null,
                 "score": "1-0",
-                "odds": 80.0,
+                "odds": 75.0,
                 "hit": null
               },
               {
@@ -27863,7 +27863,7 @@
                 "away": "埃因霍温",
                 "sel": null,
                 "score": "0-1",
-                "odds": 30.0,
+                "odds": 34.0,
                 "hit": null
               }
             ]
@@ -27872,8 +27872,8 @@
             "date": "2026-10-13",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 2240.0,
-            "total_odds": 1120.0,
+            "potential": 2100.0,
+            "total_odds": 1050.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -27890,7 +27890,7 @@
                 "away": "拜仁",
                 "sel": null,
                 "score": "1-0",
-                "odds": 80.0,
+                "odds": 75.0,
                 "hit": null
               },
               {
@@ -27908,8 +27908,8 @@
             "date": "2026-10-13",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 1920.0,
-            "total_odds": 960.0,
+            "potential": 1950.0,
+            "total_odds": 975.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -27926,7 +27926,7 @@
                 "away": "里斯本",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.0,
+                "odds": 13.0,
                 "hit": null
               },
               {
@@ -27935,7 +27935,7 @@
                 "away": "拜仁",
                 "sel": null,
                 "score": "1-0",
-                "odds": 80.0,
+                "odds": 75.0,
                 "hit": null
               }
             ]
@@ -27944,8 +27944,8 @@
             "date": "2026-10-13",
             "type": "比分3串1",
             "stake": 2.0,
-            "potential": 21120.0,
-            "total_odds": 10560.0,
+            "potential": 21450.0,
+            "total_odds": 10725.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -27963,7 +27963,7 @@
                 "away": "里斯本",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.0,
+                "odds": 13.0,
                 "hit": null
               },
               {
@@ -27972,7 +27972,7 @@
                 "away": "拜仁",
                 "sel": null,
                 "score": "1-0",
-                "odds": 80.0,
+                "odds": 75.0,
                 "hit": null
               },
               {
@@ -27990,8 +27990,8 @@
             "date": "2026-10-13",
             "type": "比分3串4(容错)",
             "stake": 8.0,
-            "potential": 25064.0,
-            "total_odds": 10560.0,
+            "potential": 25336.0,
+            "total_odds": 10725.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -28009,7 +28009,7 @@
                 "away": "里斯本",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.0,
+                "odds": 13.0,
                 "hit": null
               },
               {
@@ -28018,7 +28018,7 @@
                 "away": "拜仁",
                 "sel": null,
                 "score": "1-0",
-                "odds": 80.0,
+                "odds": 75.0,
                 "hit": null
               },
               {
