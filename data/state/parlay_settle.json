@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:20:41.365953+00:00",
+  "generated_at": "2026-10-14T12:07:15.044298+00:00",
   "parlay": {
     "n_tickets": 120,
     "n_pending": 0,
@@ -12548,17 +12548,17 @@
             "away": "皇马",
             "sel": null,
             "score": "1-0",
+            "odds": 20.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-14_周三009",
+            "home": "博德闪耀",
+            "away": "多特蒙德",
+            "sel": null,
+            "score": "1-0",
             "odds": 19.0,
             "hit": null
-          },
-          {
-            "match": "2026-10-14_周三009",
-            "home": "博德闪耀",
-            "away": "多特蒙德",
-            "sel": null,
-            "score": "1-0",
-            "odds": 20.0,
-            "hit": null
           }
         ]
       },
@@ -12566,44 +12566,8 @@
         "date": "2026-10-14",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 540.0,
-        "total_odds": 270.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-10-14_周三009",
-            "home": "博德闪耀",
-            "away": "多特蒙德",
-            "sel": null,
-            "score": "1-0",
-            "odds": 20.0,
-            "hit": null
-          },
-          {
-            "match": "2026-10-14_周三014",
-            "home": "圣路易斯城",
-            "away": "温哥华白浪",
-            "sel": null,
-            "score": "1-0",
-            "odds": 13.5,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-10-14",
-        "type": "比分2串1",
-        "stake": 2.0,
-        "potential": 513.0,
-        "total_odds": 256.5,
+        "potential": 520.0,
+        "total_odds": 260.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -12620,7 +12584,43 @@
             "away": "皇马",
             "sel": null,
             "score": "1-0",
-            "odds": 19.0,
+            "odds": 20.0,
+            "hit": null
+          },
+          {
+            "match": "2026-10-14_周三011",
+            "home": "曼城",
+            "away": "巴黎圣曼",
+            "sel": null,
+            "score": "1-0",
+            "odds": 13.0,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-10-14",
+        "type": "比分2串1",
+        "stake": 2.0,
+        "potential": 520.0,
+        "total_odds": 260.0,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-10-14_周三008",
+            "home": "罗马",
+            "away": "皇马",
+            "sel": null,
+            "score": "1-0",
+            "odds": 20.0,
             "hit": null
           },
           {
@@ -12629,7 +12629,7 @@
             "away": "温哥华白浪",
             "sel": null,
             "score": "1-0",
-            "odds": 13.5,
+            "odds": 13.0,
             "hit": null
           }
         ]
@@ -12638,8 +12638,8 @@
         "date": "2026-10-14",
         "type": "比分3串1",
         "stake": 2.0,
-        "potential": 9120.0,
-        "total_odds": 4560.0,
+        "potential": 9880.0,
+        "total_odds": 4940.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -12657,7 +12657,7 @@
             "away": "皇马",
             "sel": null,
             "score": "1-0",
-            "odds": 19.0,
+            "odds": 20.0,
             "hit": null
           },
           {
@@ -12666,7 +12666,7 @@
             "away": "多特蒙德",
             "sel": null,
             "score": "1-0",
-            "odds": 20.0,
+            "odds": 19.0,
             "hit": null
           },
           {
@@ -12675,7 +12675,7 @@
             "away": "巴黎圣曼",
             "sel": null,
             "score": "1-0",
-            "odds": 12.0,
+            "odds": 13.0,
             "hit": null
           }
         ]
@@ -12684,8 +12684,8 @@
         "date": "2026-10-14",
         "type": "比分3串4(容错)",
         "stake": 8.0,
-        "potential": 10816.0,
-        "total_odds": 4560.0,
+        "potential": 11654.0,
+        "total_odds": 4940.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -12703,7 +12703,7 @@
             "away": "皇马",
             "sel": null,
             "score": "1-0",
-            "odds": 19.0,
+            "odds": 20.0,
             "hit": null
           },
           {
@@ -12712,7 +12712,7 @@
             "away": "多特蒙德",
             "sel": null,
             "score": "1-0",
-            "odds": 20.0,
+            "odds": 19.0,
             "hit": null
           },
           {
@@ -12721,7 +12721,7 @@
             "away": "巴黎圣曼",
             "sel": null,
             "score": "1-0",
-            "odds": 12.0,
+            "odds": 13.0,
             "hit": null
           }
         ]
@@ -28296,17 +28296,17 @@
                 "away": "皇马",
                 "sel": null,
                 "score": "1-0",
+                "odds": 20.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-14_周三009",
+                "home": "博德闪耀",
+                "away": "多特蒙德",
+                "sel": null,
+                "score": "1-0",
                 "odds": 19.0,
                 "hit": null
-              },
-              {
-                "match": "2026-10-14_周三009",
-                "home": "博德闪耀",
-                "away": "多特蒙德",
-                "sel": null,
-                "score": "1-0",
-                "odds": 20.0,
-                "hit": null
               }
             ]
           },
@@ -28314,44 +28314,8 @@
             "date": "2026-10-14",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 540.0,
-            "total_odds": 270.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-10-14_周三009",
-                "home": "博德闪耀",
-                "away": "多特蒙德",
-                "sel": null,
-                "score": "1-0",
-                "odds": 20.0,
-                "hit": null
-              },
-              {
-                "match": "2026-10-14_周三014",
-                "home": "圣路易斯城",
-                "away": "温哥华白浪",
-                "sel": null,
-                "score": "1-0",
-                "odds": 13.5,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-10-14",
-            "type": "比分2串1",
-            "stake": 2.0,
-            "potential": 513.0,
-            "total_odds": 256.5,
+            "potential": 520.0,
+            "total_odds": 260.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -28368,7 +28332,43 @@
                 "away": "皇马",
                 "sel": null,
                 "score": "1-0",
-                "odds": 19.0,
+                "odds": 20.0,
+                "hit": null
+              },
+              {
+                "match": "2026-10-14_周三011",
+                "home": "曼城",
+                "away": "巴黎圣曼",
+                "sel": null,
+                "score": "1-0",
+                "odds": 13.0,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-10-14",
+            "type": "比分2串1",
+            "stake": 2.0,
+            "potential": 520.0,
+            "total_odds": 260.0,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-10-14_周三008",
+                "home": "罗马",
+                "away": "皇马",
+                "sel": null,
+                "score": "1-0",
+                "odds": 20.0,
                 "hit": null
               },
               {
@@ -28377,7 +28377,7 @@
                 "away": "温哥华白浪",
                 "sel": null,
                 "score": "1-0",
-                "odds": 13.5,
+                "odds": 13.0,
                 "hit": null
               }
             ]
@@ -28386,8 +28386,8 @@
             "date": "2026-10-14",
             "type": "比分3串1",
             "stake": 2.0,
-            "potential": 9120.0,
-            "total_odds": 4560.0,
+            "potential": 9880.0,
+            "total_odds": 4940.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -28405,7 +28405,7 @@
                 "away": "皇马",
                 "sel": null,
                 "score": "1-0",
-                "odds": 19.0,
+                "odds": 20.0,
                 "hit": null
               },
               {
@@ -28414,7 +28414,7 @@
                 "away": "多特蒙德",
                 "sel": null,
                 "score": "1-0",
-                "odds": 20.0,
+                "odds": 19.0,
                 "hit": null
               },
               {
@@ -28423,7 +28423,7 @@
                 "away": "巴黎圣曼",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.0,
+                "odds": 13.0,
                 "hit": null
               }
             ]
@@ -28432,8 +28432,8 @@
             "date": "2026-10-14",
             "type": "比分3串4(容错)",
             "stake": 8.0,
-            "potential": 10816.0,
-            "total_odds": 4560.0,
+            "potential": 11654.0,
+            "total_odds": 4940.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -28451,7 +28451,7 @@
                 "away": "皇马",
                 "sel": null,
                 "score": "1-0",
-                "odds": 19.0,
+                "odds": 20.0,
                 "hit": null
               },
               {
@@ -28460,7 +28460,7 @@
                 "away": "多特蒙德",
                 "sel": null,
                 "score": "1-0",
-                "odds": 20.0,
+                "odds": 19.0,
                 "hit": null
               },
               {
@@ -28469,7 +28469,7 @@
                 "away": "巴黎圣曼",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.0,
+                "odds": 13.0,
                 "hit": null
               }
             ]
