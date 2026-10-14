@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-14",
+  "n_matches": 4,
+  "hit_rate": 1.0,
+  "hits": 4,
+  "source_brier": {
+    "model": 0.3931,
+    "market": 0.2415,
+    "djyy": null,
+    "final": 0.2394
+  },
+  "by_league": {
+    "亚冠乙": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.3125
+    },
+    "亚冠精英": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.1304
+    },
+    "日联赛杯": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.3845
+    }
+  },
+  "by_confidence_tier": {
+    "mid": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.3485
+    },
+    "high": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.1304
+    }
+  },
+  "by_odds_band": {
+    "1.5-2.0": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.3485
+    },
+    "1.0-1.5": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.1304
+    }
+  },
+  "score_stats": {
+    "top1": 0,
+    "top3": 0,
+    "top5": 0,
+    "top8": 2,
+    "any": 2
+  },
+  "score_rank_hist": {
+    "6": 2
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 0,
+      "hits": 0
+    },
+    "mc": {
+      "n": 2,
+      "hits": 0
+    }
+  },
+  "market_signal_stats": {
+    "n": 4,
+    "hits": 2
+  },
+  "layered": {
+    "log_loss_final": 0.4926,
+    "rps_final": 0.0968,
+    "rps_market": 0.0974,
+    "goal_framework": {
+      "n": 4,
+      "hits": 3
+    },
+    "prob_bands": {
+      "40-50%": {
+        "n": 1,
+        "hit_rate": 1.0
+      },
+      "50-60%": {
+        "n": 1,
+        "hit_rate": 1.0
+      },
+      "60%+": {
+        "n": 2,
+        "hit_rate": 1.0
+      }
+    },
+    "freshness_groups": {
+      "watch": {
+        "n": 4,
+        "hit_rate": 1.0
+      }
+    }
+  },
+  "biases": [],
+  "total_pnl": 0.0,
+  "generated_at": "2026-10-14T17:15:04.369307",
+  "sha256": "2355b3a1eb6178b83b723ed8fd7d4a8e"
+}
